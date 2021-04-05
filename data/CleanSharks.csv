@@ -1,0 +1,1928 @@
+,Activity_Regex,Age_Regex,Sex_Regex,Species_Regex,Fatal_Regex
+0,paddling,57,f,White shark,n
+6,swimming,18,m,Tiger shark,y
+7,fishing,52,m,"lemon shark, 3'",n
+8,walking,15,m,Bull shark,n
+10,feeding sharks,32,m,grey reef shark,n
+13,fishing,21,m,invalid incident,n
+14,feeding sharks,34,f,Nurse shark,n
+18,scuba diving,30,m,Tiger shark,n
+21,surfing,60,m,3 m shark,n
+23,fishing,32,m,Tiger shark,n
+24,paddle-skiing,33,m,White shark,n
+25,body boarding,29,m,6' shark,n
+26,swimming,54,m,Bull shark,n
+31,fishing,56,m,Not a shark,n
+33,swimming,12,m,Bull shark,n
+34,surfing,19,m,White shark,n
+35,stand-up paddleboarding,25,m,Tiger shark,n
+36,wading,10,m,Wobbegong shark,n
+37,swimming,69,m,3.5 m shark,n
+38,surfing,18,m,1.8 m shark,n
+39,scuba diving,38,m,Blacktip shark,n
+40,swimming,55,f,White shark,n
+42,walking,35,m,Bull shark,n
+44,cleaning fish,46,f,"injury believed caused by an eel, not a shark",n
+45,snorkeling,45,m,galapagos shark?,n
+46,spearfishing,14,m,2m shark,n
+48,spearfishing,40,m,Bull shark,n
+50,free diving,28,m,White shark,n
+51,surfing,20,m,small shark,n
+53,surfing,54,f,Tiger shark,n
+55,fishing,24,m,Nurse shark,n
+56,snorkeling,25,f,Nurse shark,n
+57,scuba diving,26,m,Tiger shark,n
+58,scuba diving,49,f,Tiger shark,y
+60,spearfishing,25,m,White shark,n
+63,surfing,25,m,2 m shark,n
+64,bathing,22,m,Tiger shark,y
+65,snorkeling,7,m,cookiecutter shark,n
+66,surfing,31,m,Wobbegong shark,n
+71,fishing,15,f,White shark,n
+74,surfing,54,m,Tiger shark,n
+75,snorkeling,40,f,8' shark,n
+82,surfing,13,m,"porbeagle, 1.5 m",n
+87,surfing,18,m,5' to 6' shark,n
+89,surfing,35,m,White shark,n
+96,surfing,37,m,White shark,n
+100,sup,69,m,White shark,n
+102,swimming,13,m,Blacktip shark,n
+103,snorkeling,20,f,"oceanic whitetip shark, 1.8 to 2 m",n
+104,fishing,34,m,4' shark,n
+116,kayaking,40,m,White shark,n
+117,sup,50,m,White shark,n
+121,swimming,46,m,Bull shark,n
+122,fishing,32,m,Tiger shark,n
+123,surfing,13,f,White shark,n
+128,swimming,14,f,Bull shark,n
+129,body boarding,34,m,Bull shark,n
+133,body boarding,48,m,White shark,n
+136,surfing,30,m,"3m shark, probably a smooth hound",n
+138,snorkeling,32,f,Tiger shark,n
+139,touching a shark,20,f,3' shark,n
+143,attempting to lasso a shark,29,m,9' shark,n
+155,surfing,17,f,White shark,y
+156,surfing,28,m,Tiger shark,n
+166,swimming,17,f,Bull shark,n
+170,spearfishing,25,m,10' shark,n
+171,washing hands,58,m,lemon shark,n
+180,scuba diving,37,m,caribbean reef shark,n
+183,scuba diving,55,m,Bull shark,n
+186,surfing,48,m,Bull shark,n
+192,surf skiing ,55,m,White shark,n
+196,fishing,20,m,Wobbegong shark,n
+197,surfing,65,m,White shark,n
+198,fishing,73,m,"broadnose sevengill shark, 1.5 m",n
+199,floating,58,f,Tiger shark,n
+203,surfing,36,m, 6' to 8' shark,n
+211,surfing,17,m,White shark,n
+219,wading,60,m,3' to 4' shark,n
+220,swimming,51,f,Tiger shark,n
+225,spearfishing,22,m,White shark,n
+227,surfing,25,m,Bull shark,n
+229,surfing,20,m,Bull shark,n
+232,sup foil boarding,21,m,Tiger shark,n
+233,surfing,22,m,Blacktip shark,n
+234,swimming,40,m,Blue shark,n
+237,lobstering,43,m,Nurse shark,n
+242,fishing,31,m,"reef shark, 1m",n
+246,surfing,61,m,White shark,n
+249,wading,10,f,angel shark,n
+251,fishing,59,m,dogfish shark,n
+254,fishing,34,m,Nurse shark,n
+257,scuba diving,59,m,"caribbean reef shark, 4.5'",n
+258,spearfishing,43,m,White shark,n
+259,floating,42,m,3' to 5' shark,n
+262,spearfishing,19,m,5' shark,n
+263,floating in tube,6,f,3' to 4' shark,n
+264,standing,19,m,3' shark,n
+267,diving,60,f,3+ m shark,y
+268,swimming,23,m,Mako shark,n
+271,surfing,29,m,White shark,y
+273,swimming,13,m,5' shark,n
+275,swimming,22,f,Bull shark,n
+277,swimming,48,m,Blacktip shark,n
+278,teasing a shark,23,f,Nurse shark,n
+280,fishing,39,m,Mako shark,n
+281,surfing,24,m,Bull shark,n
+284,swimming,12,m,Wobbegong shark,n
+286,spearfishing,26,m,"grey reef shark, 2 m",n
+287,spearfishing,26,m,Bull shark,n
+288,walking,69,f,Tiger shark,y
+290,fishing,34,m,5' to 6' shark,n
+302,swimming,41,m,sandtiger shark,n
+310,swimming,41,m,sandtiger shark,n
+316,paddle boarding,48,m,Tiger shark,n
+318,wading,11,m,Blacktip shark,n
+319,spearfishing,31,m,3 m shark,n
+321,swimming,38,f,"silky shark, 6.5'",n
+322,paddle boarding,71,m,9' shark,n
+323,surfing,43,m,Bronze whaler shark,n
+324,scuba diving,32,m,Tiger shark,n
+327,fishing,26,m,Bull shark,n
+329,snorkeling,55,m,galapagos shark,n
+332,surfing,28,m,"spinner shark, 7'",n
+333,surfing,20,m,Bull shark,n
+336,wading,28,f,3' to 5' shark,n
+340,surfing,42,m,White shark,n
+341,surfing,21,m,5' shark,n
+342,surfing,21,m,"spinner shark, 5'",n
+345,swimming,44,m,Tiger shark,n
+348,surfing,25,m,Tiger shark,n
+352,wading,13,m,4' to 5' shark,n
+353,surfing,14,m,Blacktip shark,n
+354,surfing,22,m,Blacktip shark,n
+357,surfing,14,m,juvenile shark,n
+358,spearfishing,27,m,Tiger shark,n
+359,wading,12,m,4' shark,n
+364,surfing,42,m,6' shark,n
+365,stand-up paddleboarding,50,f,White shark,n
+366,fishing,29,m,Hammerhead shark,n
+367,surf-skiing,62,m,White shark,n
+369,wading,37,f,small shark,n
+371,surfing,54,f,White shark,n
+372,surfing,21,m,White shark,n
+375,surfing,15,m,4' shark,n
+376,walking,10,f,3' shark,n
+377,fishing,22,m,White shark,n
+379,spearfishing,57,m,Hammerhead shark,n
+380,surfing,52,m,White shark,n
+383,surfing,25,m,Blacktip shark,n
+385,scallop diving on hookah,46,m,White shark,y
+386,fishing,31,m,Mako shark,n
+387,surfing,40,m,Bronze whaler shark,n
+388,surfing,45,m,Bull shark,n
+389,surfing,34,m,White shark,n
+390,surfing,38,m,White shark,n
+393,spearfishing,23,f,6' shark,n
+395,surfing,52,m,White shark,n
+396,body boarding,32,m,White shark,n
+397,swimming,68,m,6' to 7' shark,n
+399,playing in the water,12,m,4' to 5' shark,n
+400,swimming,18,m,Bull shark,n
+401,body boarding,19,m,White shark,n
+403,surfing,23,m,White shark,n
+404,standing,43,m,4' shark,n
+405,swimming,19,m,Wobbegong shark,n
+407,swimming,6,m,sandtiger shark,n
+408,surfing,37,f,White shark,n
+409,standing,9,m,small shark,n
+412,wading,16,m,Bull shark,n
+413,wading,12,f,Bull shark,n
+415,boogie boarding,13,f,4' shark,n
+416,playing,11,m,Bull shark,n
+417,attempting to rescue a shark,17,f,Nurse shark,n
+418,surfing,47,m,Bull shark,n
+421,spearfishing,19,m,1m to 1.2 m shark,n
+423,surfing,18,m,5' shark,n
+425,snorkeling,50,m,Bull shark,y
+428,diving,29,m,White shark,n
+430,wading,63,m,3- to 4-foot shark,n
+431,surfing,26,m,White shark,n
+432,surf skiing ,71,m,White shark,n
+433,photographing the shark,48,m,Blue shark,n
+434,surfing,13,m,Bull shark,y
+436,spearfishing,70,m,Bull shark,n
+439,fishing,36,m,White shark,n
+440,swimming,52,m,Mako shark,y
+441,snorkeling,58,m,Tiger shark,n
+442,hand feeding sharks,9,m,Blacktip shark,n
+445,sitting in the water,18,m,Blacktip shark,n
+447,swimming,22,f,Tiger shark,y
+448,surfing,41,m,3.5 to 4 m shark,y
+449,surfing,35,m,2 m to  3 m shark,n
+451,rowing,57,m,Bull shark,n
+452,fishing,20,m,4' shark,n
+458,filming,17,m,1.5 m shark,n
+460,snorkeling,34,f,White shark,n
+461,surfing,15,m,Raggedtooth shark,n
+464,spearfishing,17,m,White shark,y
+467,surfing,50,m,White shark,n
+468,fishing,40,m,1.5 m shark,n
+470,spearfishing,17,m,Tiger shark,y
+476,surfing,44,m,2' shark,n
+477,snorkeling,53,m,1.5 m shark,n
+480,surfing,34,f,Tiger shark,n
+486,surfing,13,f,1 m shark,n
+487,standing,7,f,Bull shark,n
+490,surfing,29,m,Blacktip shark,n
+492,surfing,15,m,Blacktip shark,n
+495,surfing,28,m,8' to 10' shark,n
+496,surfing,23,m,White shark,n
+498,feeding fish,36,f,Blacktip shark,n
+500,swimming,50,m,7' shark,y
+501,fishing,43,m,Bull shark,n
+502,kayaking ,20,f,White shark,n
+503,fishing,52,m,3' to 4' shark,n
+505,surfing,13,f,spinner shark,n
+506,surfing,17,m,Blacktip shark,n
+509,swimming,30,f,small shark,n
+510,surfing,29,m,4' to 6' shark,n
+514,spearfishing,31,m,reef shark,n
+519,swimming,7,m,Bull shark,n
+520,boogie boarding,10,m,4' tp 5' shark,n
+524,surfing,20,m,White shark,n
+526,swimming,,m,Tiger shark,n
+527,surfing,51,m,1.8 metre shark,n
+530,swimming,61,m,6' to 8' shark,n
+531,swimming,39,m,4' shark,n
+537,surfing,19,m,4' to 5' shark,n
+538,transatlantic rowing,48,m,oceanic whitetip shark',n
+539,spearfishing,42,m,"caribbean reef shark, 7' to 8'",n
+544,standing,16,m," sandbar shark, 3' to 4'",n
+545,body boarding,39,m,Bronze whaler shark,n
+548,swimming,22,f,Bull shark,n
+550,tagging sharks,37,f,Blacktip shark,n
+551,fell into the water,29,f,Bull shark,n
+553,teasing a shark,10,m,Nurse shark,n
+555,surfing,35,m,White shark,n
+557,surfing,12,m,Not a shark,n
+559,swimming,40,f,4' to 5' shark,n
+561,surfing,23,m,3' shark,n
+569,swimming,63,f,White shark,y
+571,swimming,66,m,2 m shark,y
+579,surfing,21,m,Blacktip shark,n
+580,kitesurfing,21,m,Blacktip shark,n
+584,surfing,28,m,7-gill shark?,n
+586,spearfishing,24,m,7-gill shark,n
+590,snorkeling,37,m,Bull shark,n
+591,surfing,19,m,White shark,n
+593,boogie boarding,29,m,Tiger shark,n
+594,surfing,30,m,4' to 6' shark,n
+595,surfing,26,m,Wobbegong shark,n
+597,body boarding,19,m,Tiger shark,y
+599,surfing,35,m,White shark,y
+600,surfing,25,m,White shark,n
+605,kiteboarding,46,m,Tiger shark,n
+606,snorkeling,60,f,Blacktip shark,n
+607,body boarding,24,m,Bull shark,n
+609,surfing,41,m,Wobbegong shark,n
+610,diving ,45,m,"whitetip reef shark, 4' to 6'",n
+611,surfing,25,m,Tiger shark,n
+612,wading,6,m,Nurse shark,n
+613,swimming,74,m,White shark,y
+614,diving for abalone,55,m,White shark,n
+615,surfing,45,m,White shark,n
+616,wading,12,m,Bull shark,n
+622,swimming,21,m,Bull shark,n
+623,surfing,13,f,3' shark,n
+625,surfing,43,m,3' shark,n
+626,standing,25,m,3' shark,n
+630,casting a net,9,m,4' shark,n
+634,fishing,50,m,Mako shark,n
+639,snorkeling,20,f,Tiger shark,y
+641,surfing,10,m,Bull shark,n
+643,fishing,17,m,Bull shark,n
+646,spearfishing,40,m,6' shark,n
+648,surfing,18,m,Tiger shark,n
+649,cleaning fish,64,m,Nurse shark,n
+663,swimming,14,m,4' to 5' shark,n
+664,swimming,28,m,Tiger shark,n
+668,boogie boarding,10,f,4' to 5' shark,n
+669,fishing,58,m,"lemon shark, 4'",n
+671,diving,32,m,galapagos shark,n
+675,surfing,29,m,galapagos shark,n
+677,body boarding,36,m,Bull shark,y
+678,surfing,16,m,a small shark,n
+680,swimming,34,f,Tiger shark,n
+681,fishing,51,m,Nurse shark,n
+682,playing in the surf,9,m,3' shark,n
+684,surfing,21,m,Bull shark,n
+686,kite boarding,53,m,Blacktip shark,n
+689,surfing,58,m,4' shark,n
+694,fishing,30,m,Raggedtooth shark,n
+696,spearfishing,68,m,Tiger shark,y
+697,spearfishing,28,m,Bronze whaler shark,n
+698,swimming,28,m,"""small sharks""",n
+700,swimming,46,m,White shark,y
+703,surfing,16,m,Blacktip shark,n
+704,scuba diving,48,m,lemon shark,n
+709,surfing,43,m,Tiger shark,n
+713,surfing,23,m,2.5 m shark,n
+714,paddle boarding,29,m,Bull shark,n
+715,swimming,20,m,Tiger shark,y
+716,surfing,32,m,Tiger shark,n
+717,surfing,60,m,10' shark,n
+718,spearfishing,31,m,sandtiger shark,n
+719,scuba diving,25,f,seven-gill shark,n
+720,snorkeling,61,m,Tiger shark,n
+722,swimming,32,m,2.5 m shark,y
+723,surfing,14,m,2' to 3' shark,n
+724,diving,30,m,Tiger shark,n
+725,surfing,43,m,Tiger shark,n
+726,surfing,25,m,White shark,n
+727,swimming,51,f,Tiger shark,n
+728,surfing,39,m,White shark,y
+731,paddle boarding,55,m,6' to 8' shark,n
+735,bodyboarding,11,m,2m shark,n
+736,surfing,21,m,5' shark,n
+737,surfing,22,m,4' shark,n
+739,swimming,29,f,Bull shark,n
+746,boogie boarding,8,f,3.5' to 4' shark,n
+748,swimming,56,f,3.5' to 4' shark,n
+749,fishing,53,m,"porbeagle shark, 7'",n
+754,free diving,56,m,"lemon shark, 4' to 5' ",n
+755,surfing,39,m,Bull shark,n
+758,surfing,48,m,White shark,n
+760,surfing,50,m,White shark,n
+765,surfing,24,m,White shark,y
+769,kayaking,52,m,14' to 18'shark,n
+770,surfing,29,m,15' shark,n
+772,swimming,6,m,Bull shark,n
+774,sitting in the water,16,f,a small reef shark,n
+777,surf skiing ,62,m,3 m shark,n
+780,fishing,23,m,Nurse shark,n
+781,swimming,18,f,Blacktip shark,n
+784,swimming,16,m,Blacktip shark,n
+785,surfing,42,m,1.5 m shark,n
+787,surf skiing ,30,m,White shark,n
+790,wading,33,f,"18"" to 24"" shark",n
+791,spearfishing,46,m,Bull shark,n
+792,surfing,22,m,4' to 5' shark,n
+795,fishing,30,m,White shark,n
+797,paddle boarding,15,f,White shark,n
+798,surfing,28,m,5' shark,n
+799,body boarding,20,m,White shark,y
+800,kayaking,27,m,White shark,n
+801,surfing,28,m,Tiger shark,n
+803,scuba diving,33,m,White shark,y
+806,surfing,20,m,Bull shark,n
+807,surfing,61,m,Bull shark,n
+808,surfing,15,f,4' to 5' shark,n
+809,surfing,17,m,4' to 5' shark,n
+811,"diving, feeding sharks",34,f,Nurse shark,n
+813,surfing,19,m,4' shark,n
+821,snorkeling,26,m,Tiger shark,n
+823,fishing,24,m,Blue shark,n
+824,surfing,44,m,White shark,n
+825,swimming,25,m,Bull shark,y
+826,surfing,53,m,White shark,n
+827,surfing,28,m,2 m shark,n
+828,spearfishing,34,m,Tiger shark,n
+835,surfing,51,m,White shark,n
+837,surfing,14,m,Wobbegong shark,n
+842,swimming,10,m,Wobbegong shark,n
+847,surfing,27,m,White shark,n
+848,surfing,26,m,8' to 10' shark,n
+850,diving,32,m,White shark,y
+851,surfing,41,m,White shark,n
+852,diving,50,m,"port jackson shark, 1m",n
+856,canoeing,51,m,2 to 2.5 m shark,n
+861,swimming,43,m,White shark,n
+862,spearfishing,21,m,Bull shark,n
+867,surfing,25,m,4' to 6' shark,n
+869,surfing,30,m,Tiger shark,n
+871,body boarding,21,m,White shark,y
+872,surfing,19,m,"6' shark, possibly a blactip or spinner shark",n
+873,surfing,19,m,6' shark,n
+879,surfing,49,m,White shark,y
+881,wading,20,f,possibly a 5' to 6' sandtiger shark,n
+883,swimming,25,m,4 m shark,n
+884,surfing,32,m,grey reef shark ,n
+886,swimming,30,m,Bull shark,y
+887,playing in the surf,7,m,Not a shark,n
+893,surfing,29,m,White shark,n
+904,scuba diving,22,m,Bull shark,n
+905,playing in the surf,10,f,Bull shark,n
+908,spearfishing,35,m,5' shark,n
+912,scuba diving,28,m,Blacktip shark,n
+914,spearfishing,28,m,"sevengill shark, 6' to 8'",n
+915,wading,19,m,3' to 4' shark,n
+918,surfing,33,m,White shark,n
+921,spearfishing,28,m,zambesi shark,y
+923,kite boarding,15,m,Tiger shark,y
+928,spearfishing,32,m,Bull shark,n
+929,washing sand off a speared fish,17,m,"reef shark, 1.5m",n
+930,surfing,49,m,1' to 2' shark,n
+931,surfing,41,m,Bronze whaler shark,n
+936,surfing,48,m,Bull shark,n
+939,wakeboarding,24,f,3 m to 4 m shark,n
+942,fishing,36,m,Bull shark,n
+943,spearfishing,21,m,1.5 m shark,n
+945,diving for abalone,49,m,White shark,y
+950,swimming,38,f,6' shark,n
+952,scuba diving,55,m,caribbean reef shark,n
+957,body boarding,16,m,6' shark,n
+960,snorkeling,70,f,"oceanic whitetip shark, 2.5m ",y
+962,snorkeling,54,m,Mako shark,n
+963,snorkeling,46,m,Mako shark,n
+964,snorkeling,70,f,"oceanic whitetip shark, 2.5m, female",n
+965,snorkeling,48,f,"oceanic whitetip shark, 2.5m, female",n
+972,snorkeling,20,f,White shark,n
+976,scuba diving,30,m,"porbeagle shark, 8' ",n
+978,body boarding,19,m,White shark,y
+980,surfing,22,m,Bull shark,n
+984,surfing,29,m,White shark,n
+986,swimming,29,m,White shark,y
+987,surfing,15,m,2m shark,n
+988,swimming,27,m,3' shark,n
+996,surfing,31,m,White shark,y
+997,fishing,45,m,White shark,n
+1002,windsurfing,35,m,3 m shark,n
+1005,standing,37,f,3' to 4' shark,n
+1006,standing,16,m,4' shark,n
+1008,swimming,10,m,Blacktip shark,n
+1009,swimming,13,f,"sandtiger shark, 4' to 5'",n
+1010,surfing,55,m,a small spinner shark,n
+1011,swimming,9,m,angel shark,n
+1015,fishing,20,m,Blue shark,n
+1016,surfing,19,m,4' shark,n
+1017,stand-up paddleboarding,48,m,8' shark,n
+1018,surfing,20,m,Bull shark,n
+1021,swimming,17,m,1 m shark,n
+1022,boogie boarding,18,f,4' shark,n
+1025,fishing,49,m,"lemon shark, 4'",n
+1026,rescuing,58,f,20 to 30kg shark,n
+1027,swimming,60,f,20 to 30kg shark,n
+1030,wading,10,f,4' shark,n
+1031,measuring sharks,29,m,"lemon shark, 6'",n
+1032,surfing,68,m,14' shark,n
+1033,surfing,35,m,2 m shark,n
+1034,swimming,24,m,"oceanic whitetip shark, 6'",n
+1035,surfing,34,m,1.5 m shark,n
+1039,snorkeling,60,f,2 m shark,n
+1040,surfing,46,m,Wobbegong shark,n
+1042,body boarding,18,m,White shark,n
+1046,boogie boarding,14,f,1.5 m shark,n
+1047,surfing,29,m,Hammerhead shark,n
+1051,standing,37,m,White shark,y
+1052,snorkeling,9,f,"whitetip reef shark, 1m",n
+1060,swimming,27,m,"zambesi shark, 2m ",n
+1062,spearfishing,18,m,Bull shark,n
+1065,swimming,24,m,White shark,y
+1068,diving,58,m,"sandtiger shark, 8'",n
+1070,wading,10,m,6' shark,n
+1071,fishing,31,m,thresher shark,n
+1074,surfing,18,m,4' shark,n
+1075,kayaking,25,m,2 m shark,n
+1077,kayaking,27,m,White shark,n
+1081,surfing,54,m,6' to 8' shark,n
+1083,diving,23,m,angel shark,n
+1084,diving,23,m,Bull shark,n
+1086,fishing,39,m,spurdog,n
+1091,swimming,60,m,Not a shark,y
+1096,surfing,25,m,White shark,y
+1097,swimming,22,f,White shark,n
+1101,fishing,56,m,Bull shark,n
+1102,spearfishing,14,m,Bull shark,n
+1115,swimming,43,f,Nurse shark,n
+1116,surfing,52,m,"thought to involve a bronze whale shark, 2m",n
+1122,snorkeling,50,f,"oceanic whitetip shark, 2.5 to 3m",y
+1123,fishing,46,m,80 kg shark,n
+1125,surfing,31,m,Blacktip shark,n
+1126,surfing,49,m,Blacktip shark,n
+1127,surfing,55,m,Blacktip shark,n
+1128,spearfishing,27,m,Blacktip shark,n
+1129,spearfishing,48,m,7' shark,n
+1135,surfing,31,m,2' to 3' shark,n
+1137,surf skiing ,40,m,2' to 3' shark,n
+1141,fishing,59,m,Raggedtooth shark,n
+1143,surfing,17,m,Bronze whaler shark,n
+1146,surfing,17,f,3' to 4' shark,n
+1148,swimming,61,m,thought to involve a cookie cutter shark,n
+1149,wading,21,m,Wobbegong shark,n
+1151,fishing,40,m,Blue shark,n
+1153,surfing,15,m,2.6 m shark,n
+1156,surfing,33,m,White shark,n
+1157,"diving, but on the surface when bitten by the shark",31,m,Bull shark,n
+1159,surfing,41,m,White shark,n
+1163,spearfishing,15,m,Bull shark,n
+1166,swimming,25,m,Tiger shark,y
+1171,snorkeling,24,m,"dusky shark, 2m",n
+1172,surfing,13,f,White shark,n
+1173,surfing,31,m,White shark,n
+1176,swimming,49,m,broadnose sevengill shark,n
+1181,kayaking,29,m,White shark,n
+1182,snorkeling,51,m,White shark,y
+1185,fishing,15,m,Raggedtooth shark,n
+1194,scuba diving,34,m,Nurse shark,n
+1195,spearfishing,24,m,lemon shark,n
+1196,fishing,50,m," reef shark, 1.8m",n
+1199,spearfishing,43,m,White shark,n
+1201,surfing,40,m,+3' shark,n
+1202,swimming,43,m,Bronze whaler shark,n
+1203,swimming,32,m,2' to 3' juvenile shark,n
+1204,surfing,40,m,Tiger shark,n
+1206,surfing,51,m,3 m shark,n
+1209,surfing,52,m,4' shark,n
+1213,fishing,52,m,Blue shark,n
+1215,surfing,26,m,6' shark,n
+1220,treading water,38,f,Bull shark,n
+1223,surfing,31,m,White shark,n
+1226,swimming,33,m,2'  shark,n
+1230,wading,9,m,3' shark,n
+1231,wading,8,f,3' to 4' shark,n
+1233,wading,16,m,4' shark,n
+1239,rowing an inflatable dinghy,16,m,"starry smoothhound shark, 1m",n
+1241,spearfishing,42,m,Bull shark,n
+1242,surf skiing ,46,m,White shark,n
+1245,swimming,37,m,4.5 to 5' shark,n
+1247,kayaking,40,f,White shark,n
+1252,surfing,15,f,5' shark,n
+1253,swimming,14,m,Bull shark,n
+1256,surfing,49,m,3 m shark,n
+1257,surfing,21,m,2 m shark,y
+1259,swimming,37,m,White shark,n
+1260,fishing,40,m,Bull shark,n
+1263,surfing,24,m,Tiger shark,y
+1264,surfing,18,m,4' shark,n
+1266,swimming,32,m,Bull shark,n
+1268,swimming,66,m,White shark,y
+1274,surfing,30,m,1.5' to 2' shark,n
+1276,wading,15,m,6' shark,n
+1278,body boarding,16,m,Bull shark,y
+1281,surfing,52,m,4' to 5' shark,n
+1283,surfing,13,m,2.5' shark,n
+1285,jet skiing,8,m,Not a shark,n
+1286,surfing,27,m,White shark,n
+1287,diving,49,m,Bull shark,y
+1290,surfing,14,f,1 m shark,n
+1293,surf-skiing,42,m,Blacktip shark,n
+1294,accidentally stood on hooked shark's tail before attempting to gut it ,20,m,Mako shark,n
+1297,surfing,20,m,a small shark,n
+1299,surfing,26,m,Hammerhead shark,n
+1300,surfing,24,m,3 m shark,n
+1302,surfing,31,m,2 m shark,n
+1303,swimming,,m,"""a small shark""",n
+1305,surfing,52,m,Tiger shark,n
+1307,removing fish from a trap,28,m,2.27 m shark,n
+1308,fishing,32,m,reef shark,n
+1310,surfing,14,m,1.5 to 2 m shark,n
+1311,surfing,21,m,4' to 5' shark,n
+1312,surfing,42,m,5' shark,n
+1313,surfing,37,m,White shark,n
+1315,floating,32,m,Tiger shark,n
+1316,surf-skiing,52,f,White shark,n
+1317,spearfishing,31,m,Bronze whaler shark,n
+1318,surfing,22,m,3' to 4' shark,n
+1319,surfing,16,m,Blacktip shark,n
+1322,swimming,23,f,Tiger shark,y
+1323,spearfishing,48,f,caribbean reef shark,n
+1325,swimming,18,f,oceanic whitetip sharks were in the vicinity,n
+1328,surfing,23,m,3' shark,n
+1331,surfing,,f,9.5' shark?,n
+1332,snorkeling,14,m,Nurse shark,n
+1336,jumping,12,f,"18"" to 24"" shark",n
+1337,swimming,58,m,possibly a spinner shark,n
+1338,body boarding,15,m,Tiger shark,n
+1339,surfing,24,m,White shark,n
+1340,surfing,54,m,3' shark,n
+1341,surfing,27,m,3' shark,n
+1345,surfing,16,m,4' to 5' shark,n
+1347,floating near boat & observing bioluminesce,20,m,Bull shark,n
+1348,swimming,15,f, ,n
+1352,jumped into the water,19,f,Bull shark,n
+1357,snorkeling,36,m, ,n
+1358,wading,15,m,Bronze whaler shark,n
+1359,swimming,14,m,2' to 3' shark,n
+1360,scuba diving,48,m,"3' small spotted catshark, scyliorhinus canicula",n
+1362,wading,30,f,5' shark,n
+1363,spearfishing,48,f,Bull shark,n
+1365,body boarding,17,m,2 m shark,n
+1369,surfing,20,m,4' shark,n
+1375,reviving a sedated shark,40,f,Blacktip shark,n
+1376,fishing,38,m,"lesser spotted dogfish, scyliorhinus canicula, less than 80 cm in length",n
+1377,wading,38,f,2.5 m shark,n
+1378,surfing,19,m,10' shark,n
+1379,surfing,21,f,4' to 5' shark,n
+1382,snorkeling,63,f,Tiger shark,n
+1383,swimming,68,m,6' to 8' shark,n
+1385,shark tagging,20,f,"lemon shark, >1 m ",n
+1386,swimming,13,f,"""a small shark""",n
+1387,body boarding,12,m,Blacktip shark,n
+1388,surfing,24,m,3' to 4' shark,n
+1390,surfing,26,m,Tiger shark,n
+1392,surfing,27,m,3' shark,n
+1395,surfing,11,m,4' to 5' shark,n
+1396,surfing,42,f,1.5 m shark,n
+1398,swimming,59,f,2 to 2.5 m shark,n
+1400,spearfishing,16,m,Tiger shark,n
+1404,spearfishing,30,m,Tiger shark,n
+1406,diving,41,m,White shark,n
+1408,swimming,24,m,Tiger shark,y
+1411,surfing,24,m,Tiger shark,n
+1412,surfing,25,m,2.5 to 3 m shark,n
+1413,surfing,10,m,2 to 3 m shark,n
+1414,surfing,43,m,White shark,n
+1415,fishing,25,m,Raggedtooth shark,n
+1416,body boarding,15,m,White shark,n
+1418,swimming,29,m,2 m to 3 m shark,n
+1420,surfing,22,m,White shark,n
+1424,playing soccer in the water,18,m,3' to 3.5' shark,n
+1431,swimming,55,m,spinner shark,n
+1432,surfing,52,m,5' shark,n
+1435,standing,33,m,3' shark,n
+1437,surfing,37,m,White shark,n
+1446,lifesaving drill,24,m,White shark,n
+1450,surfing,41,m,White shark,n
+1453,surf-skiing,19,m,White shark,n
+1454,surfing,14,m, ,n
+1457,standing,49,m,"angel shark, 1.2m ",n
+1463,body boarding,14,f,Bull shark,n
+1465,spearfishing,28,f,Blacktip shark,n
+1466,spearfishing,35,m,Blacktip shark,n
+1470,surfing,22,f,Blacktip shark,n
+1473,surfing,24,m,2' to 3' shark,n
+1474,playing,7,f,3' to 4' shark,n
+1475,surfing,40,m,White shark,n
+1476,spearfishing,26,m,Tiger shark,n
+1479,spearfishing,15,m,"grey reef shark, 5' to 8' ",n
+1481,scuba diving,30,f,Tiger shark,n
+1484,snorkeling,46,m,Wobbegong shark,n
+1488,fishing,35,m,Bull shark,n
+1489,surfing,15,m,Bronze whaler shark,n
+1490,body boarding,15,m,Raggedtooth shark,n
+1491,swimming,35,m,Tiger shark,n
+1494,surfing,28,f,Tiger shark,n
+1496,surfing,21,m,Tiger shark,n
+1497,surfing,15,m,Bronze whaler shark,n
+1498,standing,15,f,5' to 7' shark,n
+1503,surfing,15,m,Raggedtooth shark,n
+1504,swimming,24,f,Tiger shark,y
+1505,kayaking,57,m,12' to 18' shark,n
+1506,competing in the woodvale atlantic rowing race,46,m,12' shark,n
+1510,scuba diving,52,m,White shark,n
+1512,swimming,21,f,Bull shark,y
+1513,surfing,21,m,4' shark,n
+1514,diving for crayfish,49,m,said to involve a 1.5 m shark,n
+1515,surfing,30,m,White shark,n
+1516,swimming,29,m,Tiger shark,n
+1518,spearfishing,44,m,whitetip reef shark,n
+1521,surfing,23,m,4' shark,n
+1523,surfing,18,m,1.8 m shark,n
+1526,surfing,30,m,4' shark,n
+1529,fishing,32,m,Raggedtooth shark,n
+1530,surfing,18,m,6' shark,n
+1532,surfing,26,m,White shark,n
+1533,wading,15,m,2' to 3' shark,n
+1534,standing,55,m,2' shark,n
+1535,surfing,20,m,3 m shark,n
+1536,surfing,36,m,White shark,n
+1537,surfing,20,f,White shark,n
+1539,surfing,22,m,Tiger shark,n
+1540,scuba diving,57,f,caribbean reef sharks,n
+1543,surf-skiing,52,m,White shark,n
+1544,surfing,28,m,Tiger shark,n
+1545,surfing,26,m,White shark,n
+1546,surfing,44,m,Bronze whaler shark,n
+1548,surfing,68,f,3' to 4' shark,n
+1551,wading,18,f,Bull shark,n
+1552,surfing,40,m,White shark,n
+1554,removing shark from net,21,m,"2 m [6.75'] shark, 200-kg shark t",y
+1555,scuba diving,23,m,White shark,y
+1556,surfing,37,m,White shark,n
+1558,swimming,8,m,Blacktip shark,n
+1561,surfing,16,m,1.8 m [6'] shark,n
+1568,scuba diving,24,m,3.5 m [11.5']shark,n
+1570,swimming,22,m,[4.5' to 5'] shark,n
+1571,holding onto an inflatable boat,14,f,[4' to 5'],n
+1573,fishing,16,m,Bull shark,n
+1574,swimming,14,f,Bull shark,y
+1575,swimming,7,f,"on 8/13/2005 anglers from new zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. it was believed this was the same shark that killed alysha",y
+1578,swimming,20,m,"unknown, but it was reported that a shark tooth was recovered from the wound",n
+1579,diving,38,f,White shark,n
+1582,spearfishing,22,m,White shark,y
+1584,swimming,33,m,"""small shark""",n
+1586,surfing,32,m,Raggedtooth shark,n
+1591,surfing,47,m,Tiger shark,n
+1592,fishing,25,m,Mako shark,n
+1594,spearfishing,20,m,2 m [6.75'] copper shark,n
+1595,surfing,40,m,Bronze whaler shark,n
+1596,wading,70,f,Blacktip shark,n
+1601,surfing,32,m,4 m [13'] shark,n
+1604,snorkeling,26,m,White shark,y
+1605,diving in aquarium display tank,45,m,"sandtiger shark, 2.1 m [7'] ",n
+1609,swimming,18,m,Bull shark,n
+1614,swimming,19,m,3 m [10'] shark,n
+1617,fishing,39,m,White shark,n
+1619,scurfing (surfboard being  towed behind a boat),18,m,White shark,y
+1620,spearfishing,38,m,Bull shark,y
+1621,surfing,20,m,Raggedtooth shark,n
+1622,playing,16,m,Raggedtooth shark,n
+1623,swimming,77,f,White shark,y
+1624,surfing,38,NaN,White shark,n
+1627,diving,40,m,Bull shark,n
+1629,chumming for white sharks,52,m,White shark,n
+1630,surfing,59,m,Bronze whaler shark,n
+1632,spearfishing,34,m,Tiger shark,n
+1633,surfing,34,m,Raggedtooth shark,n
+1634,body boarding,15,m,Tiger shark,n
+1638,surfing,26,m,White shark,n
+1641,jumping,17,f,2.4 m [8'] shark,n
+1643,bathing,24,m,Tiger shark,n
+1645,diving,50,m,White shark,y
+1646,swimming,47,m,1.2 m [4'] shark,n
+1652,swimming,13,f,1.8 m [6'] shark,n
+1653,swimming,19,f,1.2 m to 1.5 m [4' to 5'] shark,n
+1654,fishing,11,m,Bull shark,n
+1656,fishing,51,m,Mako shark,n
+1657,surfing,30,m,"2 sharks, 4.5 m & 3 m ",y
+1658,snorkeling,,f,"""black tipped"" shark",n
+1659,wading,7,m,4' to 5' shark,n
+1660,surfing,45,m,White shark,n
+1663,body boarding,17,m,Bronze whaler shark,n
+1664,swimming,8,m,1.2 m [4'] shark,n
+1665,swimming,21,m,White shark,y
+1666,wading,16,m,0.9 m to 1.5 m [3' to 5'] shark,n
+1667,swimming,17,m,Bull shark,n
+1668,surfing,44,m,2.4 m to 3.7 m [8' to 12'] shark,n
+1673,spearfishing,63,m,"1,5 m [5'] caribbean reef shark (carcharhinus  perezi)",n
+1674,surfing,28,m,Mako shark,n
+1680,surfing,57,m,Tiger shark,y
+1681,surfing,16,m,White shark,n
+1684,surfing,20,m,Bull shark,n
+1685,body boarding,22,m,Bull shark,n
+1687,surfing,20,m,2.5 m shark,n
+1691,surfing,51,m,Tiger shark,n
+1692,spearfishing,47,m,Bronze whaler shark,n
+1694,surfing,15,m,2 m [6.75'] sevengill  shark,n
+1698,snorkeling,22,m,"60 cm [23.6""] blind or brown shark",n
+1699,scuba diving,46,m,White shark,n
+1700,surfing,21,m,possibily a  1.5 to 2 m sandtiger shark,n
+1703,spearfishing,40,m,Bull shark,n
+1706,surfing,22,m,Raggedtooth shark,n
+1717,spearfishing,21,m,Tiger shark,y
+1718,surfing,35,f,4' shark,n
+1719,swimming,35,m,Tiger shark,n
+1725,surfing,18,m,1.2 m to 1.5 m [4' to 5'] shark,n
+1726,surfing,22,m,Bronze whaler shark,n
+1727,surfing,13,f,Tiger shark,n
+1730,surfing,19,m,1.2 m [4'] shark,n
+1736,fishing,41,f,"1.2 m [4'] ""grey-colored shark""",n
+1742,surfing,30,m,3' shark,n
+1745,body boarding,18,m,6' shark,n
+1746,standing,15,m,7' shark,n
+1747,body boarding,19,m,White shark,y
+1750,swimming,50,f,White shark,y
+1752,sitting on surfboard,16,m,White shark,n
+1756,spearfishing,58,m,unidentified species,n
+1757,walking,10,m,2' shark,n
+1758,surfing,21,m,1.5 m to 1.8 m [5' to 6'] shark,n
+1759,spearfishing,39,m,Bull shark,n
+1763,surfing,17,m,unidentified species,n
+1764,surfing,15,m,106 cm [3.5']  shark,n
+1766,standing,12,f,small brown shark,n
+1767,swimming,60,m,3.7 m to 4.3 m [12' to 14'] shark,n
+1768,swimming,51,m,unidentified species,n
+1769,surfing,33,m,"""sand shark""",n
+1773,wading,22,m,3' to 5' shark,n
+1774,swimming,20,m,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,n
+1775,surfing,34,m,4' to 5' shark,n
+1780,surfing,17,m,Bull shark,n
+1782,surfing,36,m,unidentified species,n
+1783,surfing,17,m,unidentified species,n
+1784,surfing,30,m,unidentified species,n
+1785,surfing,23,m,0.9 m to 1.2 m [3' to 4'] shark,n
+1786,surfing,18,m,unidentified species,n
+1787,jumping,11,m,a small shark,n
+1788,surfing,12,m,unidentified species,n
+1789,swimming,20,m,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",n
+1790,surfing,28,m,Mako shark,n
+1792,surfing,50,m,4' to 5' shark,n
+1794,scuba diving,44,m,White shark,n
+1795,wading,37,m,"""a small shark""",n
+1796,swimming,54,m,species unidentified,n
+1797,swimming,24,m,Nurse shark,n
+1798,swimming,84,m,Bull shark,y
+1802,snorkeling,18,f,Hammerhead shark,n
+1803,snorkeling,25,m,White shark,n
+1804,scuba diving,26,m,Wobbegong shark,n
+1806,swimming,23,m,Bull shark,y
+1809,body boarding,48,m,White shark,n
+1810,swimming,34,f,2.4 m to 3 m [8' to 10'] grey colored shark,n
+1811,snorkeling,41,f,1.8 m to 2.1 m [6' to 7']  caribbean reef shark ,n
+1812,surfing,21,m,6' shark,n
+1813,boogie boarding,16,m,3' to 4' shark,n
+1815,swimming,60,f,a small shark,n
+1816,swimming,36,m,Tiger shark,y
+1818,surfing,14,m,Blacktip shark,n
+1819,surfing,35,m,3.5' to 4.5' shark,n
+1820,surfing,18,m,3.5' to 4' shark,n
+1821,surfing,47,m,4' to 5' shark,n
+1823,fishing,55,m,Blacktip shark,n
+1824,fishing,,m,Blacktip shark,n
+1825,swimming,,m,Tiger shark,n
+1826,surfing,24,m,2.4 m [8'] shark,n
+1827,surfing,35,m,3 m to 3.7 m [10' to 12'] shark,n
+1828,swimming,19,m,Tiger shark,n
+1830,surf skiing,47,m,White shark,n
+1831,boogie boarding,20,m,4' to 6' shark,n
+1832,wading,36,m,Hammerhead shark,n
+1833,surfing,16,m,Tiger shark,n
+1835,surfing,27,m,0.9 m  to 1.2 m [3' to 4'] shark,n
+1836,surfing,15,m,Nurse shark,n
+1838,diving,30,m,"sandtiger shark, 3 m [10'] ",n
+1839,standing,14,m,1.2 m to 1.5 m [4' to 5'] shark,n
+1840,surfing,13,m,Blacktip shark,n
+1841,swimming,15,f,Bull shark,n
+1843,fishing,41,m,Mako shark,y
+1844,surfing,22,m,Tiger shark,n
+1845,standing,9,f,Bull shark,n
+1852,surfing,28,m,0.9 m to 1.2 m [3' to 4'] shark; tooth fragment recovered from hand,n
+1853,surfing,50,m,  ,n
+1855,snorkeling,50,m,1.5 to 2.5 m [5' to 8.25'] copper shark,n
+1856,surfing,24,m,White shark,n
+1857,floating on a raft,16,m,1 m  shark,n
+1858,fishing,55,m,Blacktip shark,n
+1862,fishing,31,m,2.1 m to 2.4 m [7' to 8'] shark,n
+1865,scallop diving (using surface-supplied air & a pod) ,23,m,White shark,y
+1867,surfing,34,m,1.2 m [4'] shark,n
+1870,standing,43,m,Bull shark,n
+1871,wading,41,m,3'  shark,n
+1872,swimming,29,m,0.9 m [3'] shark,n
+1873,body-boarding,17,m,Tiger shark,n
+1874,wading,11,f,  ,n
+1876,swimming,20,m,4' shark,n
+1877,snorkeling,39,m,Nurse shark,n
+1878,surfing,31,m,"spinner shark, 3' to 4' ",n
+1881,surfing,30,m,"1.5 m [5'] ""whaler shark""",n
+1883,kayaking,35,m,c. leucas tooth fragment recovered from kayak,n
+1884,surfing,20,m,Tiger shark,n
+1886,fishing,16,m,zambesi shark?,n
+1888,surf skiing,26,m,unidentified,n
+1889,snorkeling,35,m,Tiger shark,n
+1891,surfing,49,m,Bronze whaler shark,n
+1895,snorkeling,20,f,Bronze whaler shark,n
+1896,surfing,26,m,Tiger shark,n
+1898,surfing,21,m,4' shark,n
+1900,wreck / technical diving,42,m,questionable incident - shark bite may have precipitated drowning,y
+1901,boogie boarding,6,m,2' to 3.5' shark,n
+1907,swimming,28,m,White shark,y
+1908,swimming,23,f,White shark,n
+1909,wading,20,m,1.5 m [5'] shark,n
+1910,swimming,10,m,Bull shark,y
+1911,spearfishing,44,m,Bull shark,n
+1916,surfing,17,m,a small shark,n
+1921,surfing,20,m,Blacktip shark,n
+1922,surfing,19,m,Blacktip shark,n
+1923,surfing,19,m,Blacktip shark,n
+1924,spearfishing,43,m,Bull shark,n
+1925,fell off banana boat,21,m,3 m [10'] shark,n
+1934,boogie boarding,18,m,0.9 m  [3'] shark,n
+1936,swimming,8,m,Bull shark,n
+1939,swimming,14,m,1.5 m [5'] shark,n
+1940,spearfishing,52,m,White shark,n
+1942,wading,29,f,2' shark,n
+1944,swimming,11,m,1.2 m to 1.5 m [4.5' to 5'] shark,n
+1948,surfing,26,m,White shark,n
+1950,surfing,45,m,1.2 m to 1.5 m [4' to 5'] shark,n
+1954,surfing,12,m,Blacktip shark,n
+1957,surfing,21,m,Blacktip shark,n
+1958,body boarding,12,m,Blacktip shark,n
+1959,surfing,22,m,Blacktip shark,n
+1960,surfing,19,m,Blacktip shark,n
+1964,surfing,46,m,White shark,n
+1966,standing,26,m,"""small shark""",n
+1968,surfing,40,m,Bronze whaler shark,n
+1976,surfing,40,m,Bronze whaler shark,n
+1977,kayaking,35,m,5 m shark,n
+1978,swimming,55,f,2 m [6.75'] shark,n
+1983,swimming,47,m,6 m [20'] shark,y
+1985,diving for sea urchins,30,m,"porbeagle shark, 3 m [10']rk",n
+1986,spearfishing,38,m,Bronze whaler shark,n
+1988,diving (shell maintenance),28,m,Tiger shark,n
+1990,swimming,73,m,1.2 m to 1.8 m [4' to 6'] shark,n
+1992,swimming,52,m,White shark,n
+1993,swimming,49,m,White shark,y
+1994,surfing,27,m,White shark,n
+1997,swimming,56,f,Tiger shark,n
+1999,surfing,17,m,2.1 to 2.4 m [7' to 8'] shark,n
+2000,surfing,23,m,Blacktip shark,n
+2004,surfing,17,m,White shark,y
+2005,surfing,25,m,White shark,y
+2006,fell onto dead shark,12,m,Blue shark,n
+2007,surfing,31,m,White shark,y
+2011,swimming,25,m,60 cm to 90 cm [2' to 3'] shark,n
+2013,free diving,48,m,White shark,n
+2014,swimming,28,m,thought to involve a zambesi shark,y
+2015,wading,40,m,1.5 m [5'] shark,n
+2016,surfing,27,m,Tiger shark,n
+2018,swimming,47,m,a 2' shark was seen in the area by witnesses,n
+2019,jumped into the water,69,m,Bull shark,y
+2022,"windsurfing, but sitting on his board",53,m,Tiger shark,n
+2023,surfing,27,m,juvenile shark,n
+2024,standing,44,f,Blacktip shark,n
+2029,snorkeling,45,f,Nurse shark,n
+2031,surfing,14,m,1.8 m [6'] grey-colored shark,n
+2035,scuba diving,69,m,"grey reef shark, 2 m [6.75'] ",n
+2038,jumping,5,m,"lemon shark, 2.1  m to 2.4 m [7' to 8'] ",n
+2039,playing,12,f,Tiger shark,n
+2041,spearfishing,55,f,Nurse shark,n
+2042,wading,13,f,0.9 m [3'] shark,n
+2043,standing,19,f,Blacktip shark,n
+2049,surfing,17,m,Blacktip shark,n
+2050,swimming,55,m,Bull shark,n
+2051,swimming,44,m,Bull shark,n
+2061,swimming,26,m,2.5 m shark,n
+2062,boogie boarding,14,f,1.8 m [6'] shark,n
+2063,surfing,37,m,1.2 m [4'] shark,n
+2064,spearfishing,35,m,Tiger shark,y
+2070,spearfishing,39,m,Mako shark,n
+2075,surfing,26,m,3 m [10'] shark,n
+2079,surfing,15,m,sevengill shark,n
+2080,swimming,13,f,sevengill shark,n
+2081,bathing,12,f,sevengill shark,n
+2082,surfing,18,m,Tiger shark,n
+2084,spearfishing,39,m,Not a shark,n
+2087,swimming,51,f,Tiger shark,n
+2089,surfing,35,m,White shark,n
+2090,swimming,39,m,1.3 to 1.6 m shark,n
+2091,swimming,12,m,"grey reef shark, 1.2 m [4'] ",n
+2092,swimming,12,m,"grey reef shark, 1.2 m [4'] ",n
+2096,surfing,16,m,Tiger shark,n
+2099,kayaking,37,m,White shark,n
+2100,wading,61,f,unidentified,n
+2102,surfing,13,m,1.5 m to 1.8 m [5' to 6'] shark,n
+2103,wading,7,m,0.9 m [3'] shark,n
+2105,surfing,28,m,"""a small shark""",n
+2107,fishing,23,m,7' shark,n
+2109,lying prone in 2' of water,10,m,1.8 m [6'] shark,n
+2110,surfing,62,m,4' to 5' shark,n
+2111,spearfishing,35,m,Bull shark,n
+2112,surfing,42,m,White shark,n
+2113,swimming,43,m,Bull shark,n
+2114,surfing,43,m,Tiger shark,n
+2115,boogie boarding,14,m,White shark,y
+2117,wading,30,f,Blacktip shark,n
+2118,surfing,29,m,White shark,n
+2119,adrift in a life jacket,20,m,1.2 m [4'] shark,n
+2120,surfing,21,m,3' to 4' shark,n
+2122,wading,5,m,Blacktip shark,n
+2123,windsurfing,22,m,White shark,y
+2124,surfing,21,m,Tiger shark,n
+2125,swimming,41,f,"grey reef shark, 1.5 m ",n
+2126,swimming,52,m,Bull shark,y
+2132,fishing,28,m,Mako shark,n
+2134,swimming,29,f,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,n
+2136,surfing,35,m,Tiger shark,n
+2137,surfing,25,m,spinner shark,n
+2138,spearfishing,47,m,Bull shark,n
+2143,spearfishing,30,m,White shark,n
+2147,surfing,18,m,White shark,n
+2150,swimming,9,m,Tiger shark,y
+2151,surfing,14,m,1.2 m [4'] shark,n
+2152,walking,13,m,"a ""small shark""",n
+2153,surfing,32,m,White shark,n
+2154,fishing,52,m,6' shark,n
+2155,surfing,22,m,White shark,y
+2165,surfing,28,m,1.8 m [6'] shark,n
+2166,spearfishing,25,m,1.5 m shark,n
+2167,surfing,26,m,3' to 4' shark,n
+2169,boogie boarding,16,m,White shark,n
+2171,spearfishing,28,m,"caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",n
+2172,body-boarding,11,m,4.5' to 5' shark,n
+2174,surfing,19,m,White shark,n
+2175,spearfishing,24,m,White shark,n
+2178,wading,47,m,Raggedtooth shark,n
+2179,surfing,16,m,5' to 6' shark,n
+2180,surfing,10,m,Raggedtooth shark,n
+2181,free diving,26,m,White shark,y
+2182,body boarding,20,m,White shark,y
+2186,body boarding,15,m,White shark,n
+2187,body boarding,16,m,unidentified,n
+2188,surfing,40,m,"lemon shark, 1.5 m [5'], identified  by the surfer",n
+2189,swimming,14,f,"1.8 m [6'] shark, possibly a blacktip",n
+2191,body boarding,22,m,White shark,n
+2192,towing rubber dinghy,35,f,3 m [10'] shark,y
+2193,surfing,50,m,White shark,n
+2194,scuba diving,16,m,Nurse shark,n
+2198,snorkeling,33,m,White shark,n
+2199,swimming,32,m,5' spinner shark,n
+2206,surfing,23,m,small dusky shark or blackfin shark,n
+2210,spearfishing,39,m,White shark,y
+2214,scuba diving,42,m,White shark,n
+2217,surf-skiing,51,m,White shark,n
+2218,surfing,19,m,Tiger shark,n
+2219,surfing,23,m,Blacktip shark,n
+2220,surfing,12,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2229,surfing,29,m,White shark,n
+2231,scuba diving,33,m,Tiger shark,y
+2234,fishing,16,m,White shark,y
+2237,wading,10,f,1 m shark,n
+2239,surfing,17,m,juvenile shark,n
+2240,surfing,19,m,"""juvenile shark""",n
+2242,surfing,25,m,White shark,y
+2244,standing,50,m,Blacktip shark,n
+2245,fishing,55,m,White shark,y
+2248,snorkeling,47,f,Tiger shark,n
+2249,surfing,18,m,possibly a spinner shark,n
+2251,surfing,33,m,1.2 m [4'] shark (spinner shark?),n
+2252,spearfishing,35,m,4' shark,n
+2253,surfing,34,m,possibly a sand shark,n
+2254,surfing,12,m,possibly a sand shark,n
+2255,spearfishing,54,m,possibly a caribbean reef shark,n
+2257,windsurfing,22,m,White shark,n
+2258,swimming,21,f,a small shark,n
+2259,scuba diving,30,m,Tiger shark,n
+2263,snorkeling,27,m,1.8 m to 2.1 m [6' to 7'] shark,n
+2264,windsurfing,41,m,Tiger shark,y
+2271,surfing,45,m,White shark,n
+2276,surfing,22,m,White shark,n
+2277,surfing,21,m,1.2 m [4'] shark,n
+2278,surfing,31,m,White shark,n
+2281,diving for abalone,23,m,White shark,n
+2282,swimming,19,m,"""a young shark""",n
+2286,spearfishing,29,m,White shark,n
+2287,body boarding,19,m,Tiger shark,n
+2288,free diving,36,m,White shark,n
+2289,fishing,21,m,Hammerhead shark,n
+2291,swimming,52,m,White shark,y
+2293,swimming,46,m,6' shark,n
+2297,standing,63,f,5' to 6' shark,n
+2302,surfing,17,m,White shark,n
+2303,tech diving ,45,m,Not a shark,y
+2304,surfing,22,m,1.2 m [4'] shark,n
+2306,surfing,27,m,Blacktip shark,n
+2308,swimming,11,m,Wobbegong shark,n
+2309,swimming,16,f,Wobbegong shark,n
+2311,swimming,47,f,Tiger shark,n
+2312,fishing,7,m,1.5 m [5'] shark,n
+2313,dived naked into the water on a bet,24,m,Bronze whaler shark,n
+2314,swimming,32,f,Nurse shark,n
+2319,swimming,7,m,"""reef shark""",n
+2320,wading,33,m,Nurse shark,n
+2321,swimming,13,f,Bronze whaler shark,n
+2322,swimming,53,m,Tiger shark,n
+2325,surfing,25,m,Tiger shark,y
+2329,"diving, gathering shellfish",22,m,White shark,n
+2335,standing,15,f,4 m shark,n
+2336,surfing,39,m,1.2 m to 1.5 m [4' to 5']   shark,n
+2337,surfing,14,m,1.5 to 1.8 m [5' to 6'] shark,n
+2339,windsurfing,25,m,White shark,n
+2340,surfing,19,m,1.8 m [6'] shark,n
+2343,scuba diving,25,m,Bull shark,y
+2344,abalone diving using hookah (near calving whales),29,m,White shark,y
+2345,abalone diving using hookah (resting on the surface),32,m,White shark,n
+2347,surfing,19,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2350,surfing,16,m,5' shark,n
+2351,surfing,18,m,"""a small shark""",n
+2352,swimming,16,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2353,swimming,23,m,"""sand"" shark",n
+2354,surfing,19,m,"""small shark""",n
+2356,fishing,18,m,"""small shark""",n
+2357,wading,20,m,1.8 m [6'] shark,n
+2360,"""riding waves on a board""",14,f,Blacktip shark,n
+2361,body boarding,12,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2374,fishing,32,f,Blacktip shark,n
+2376,scuba diving,31,m,White shark,n
+2378,playing / jumping,13,m,"""sand"" shark",n
+2380,swimming,45,m,1.8 m [6'] shark,n
+2381,swimming,10,f,6' shark,n
+2382,swimming,38,m,Tiger shark,n
+2383,swimming,45,f,Tiger shark,y
+2384,swimming,29,m,1.8 m to 2.1 m [6' to 7'] shark,y
+2386,surfing,15,m,Bull shark,n
+2387,sleeping in anchored boat,69,m,3.7 m [12'] shark,y
+2389,diving for abalone,44,f,4 m shark,y
+2393,scuba diving,47,m,White shark,y
+2395,surfing,35,m,Bronze whaler shark,n
+2397,swimming,22,m,Raggedtooth shark,n
+2399,swimming,14,m,Tiger shark,y
+2400,surfing,17,m, ,n
+2405,body boarding,26,m,White shark,n
+2411,commercial diver (submerged or treading water),42,m,White shark,y
+2414,surfing,34,f,2.7 m [9'] shark,n
+2418,wading,9,f,thought to involve a small sand shark,n
+2421,surfing,43,m,White shark,n
+2423,jumped off rocks into white water,12,f,small shark,n
+2427,windsurfing,24,m,Bull shark,y
+2428,surfing,22,m,White shark,y
+2429,surfing,31,m,White shark,n
+2431,surfing,15,m,"""small shark""",n
+2432,spearfishing,30,m,1.8 m [6'] shark,n
+2434,surfing,28,m,1.2 m [4'] spinner shark,n
+2435,spearfishing,35,m,2.1 m [7'] shark,n
+2436,wading,36,f,1.2 m [4'] shark,n
+2438,surfing,22,m,>1.8 m [6'] shark,n
+2441,wading,20,m,2' to 3' shark,n
+2444,swimming,19,f,White shark,n
+2446,removing shark from tank in nightclub ,33,m,"lemon shark, 4' ",n
+2447,surfing,25,m,2 m shark,n
+2449,surfing,23,m,1.2 m [4'] shark,n
+2451,surfing,15,m,White shark,n
+2457,swimming,23,m,1.5 m shark,n
+2458,swimming,33,m,"1.3 m [4'3""] shark",n
+2463,hookah diving,27,m,Tiger shark,y
+2466,surfing,26,m,White shark,n
+2467,swimming,26,f,Bull shark,n
+2468,kayaking,34,f,White shark,n
+2471,spearfishing,36,m,White shark,n
+2474,wading,19,m,3' shark,n
+2476,swimming,69,m,1.2 m [4'] shark,n
+2477,spearfishing,51,m,Blacktip shark,n
+2481,riding floatation device,19,f,Bull shark,n
+2483,free diving,39,m,White shark,n
+2486,surfing,28,m,White shark,n
+2487,playing,12,f,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",n
+2492,paddling,22,m,Tiger shark,n
+2493,scuba diving,31,m,White shark,y
+2494,scuba diving,34,f,White shark,y
+2496,swimming,60,f,6' shark,n
+2503,paddling,35,m,Tiger shark,n
+2504,spearfishing,55,m,White shark,n
+2508,fishing,69,m,Bronze whaler shark,n
+2510,spearfishing,21,m,1.5 m shark,n
+2511,   ,32,m,two 3 m [10'] oceanic whitetip sharks,n
+2512,surfing,29,m,White shark,n
+2517,standing,10,m,Tiger shark,n
+2518,lying on surfboard,30,m,Tiger shark,n
+2519,spearfishing,31,m,Mako shark,n
+2520,surfing,19,m,Blacktip shark,n
+2521,surfing,24,m,1.8 m [6'] shark,n
+2522,kayaking,46,m,White shark,n
+2523,scuba diving,30,m,Hammerhead shark,n
+2524,scuba diving,40,m,unidentified shark,n
+2526,body boarding,18,m,Tiger shark,y
+2527,hookah diving for sea urchins,40,m,White shark,n
+2528,surfing,28,m,Tiger shark,n
+2531,surfing,28,m,White shark,y
+2533,surfing,20,m,White shark,n
+2537,snorkeling,34,f,Blacktip shark,n
+2538,surfing,17,m,White shark,n
+2540,surfing,22,m,White shark,n
+2541,snorkeling,26,m,Nurse shark,n
+2544,standing,42,f,"""a small shark""",n
+2548,surfing,16,m,Bull shark,y
+2556,surfing,35,m,>2 m shark,n
+2557,surfing,36,f,Tiger shark,n
+2558,surfing,17,m,Bronze whaler shark,n
+2559,hookah diving for pen shells ,41,m,White shark,y
+2561,surfing,21,m,White shark,n
+2566,boogie boarding,19,m,Bronze whaler shark,n
+2567,swimming,19,m,"zambesi shark, 1.7 m [5.5'] ",n
+2568,spearfishing,36,m,Blacktip shark,n
+2573,hookah diving for sea urchins,25,m,White shark,n
+2574,snorkeling,41,f,Tiger shark,y
+2578,boogie boarding,14,m,"""small shark""",n
+2579,surfing,21,m,1.8 m [6'] shark,n
+2580,surfing,32,m,White shark,n
+2582,scuba diving,19,m,White shark,y
+2583,finning the shark that bit him,36,m,"3 m [10'], 270- kg [595-lb] shark",n
+2584,swimming,23,m,sand shark,n
+2585,wading,10,f,3' shark,n
+2587,canoeing,40,f,White shark,n
+2588,snorkeling,39,m,"2.1 m [7'], 140-lb reef shark",n
+2589,swimming,42,m,Blacktip shark,n
+2591,surfing,30,m,Tiger shark,n
+2592,surfing,32,m,White shark,n
+2593,boogie boarding,13,m,Not a shark,n
+2597,swimming,31,m,Bull shark,n
+2598,swimming,65,f,Tiger shark,y
+2599,sitting on surfboard,23,m,2.4 m [8'] shark,n
+2603,surfing,22,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2605,scuba diving,18,m,Nurse shark,n
+2606,surfing,38,m,White shark,n
+2607,spearfishing,20,m,White shark,n
+2610,surfing,22,m,2 m shark,n
+2612,swimming,26,m,1.5 m shark,n
+2614,surfing,24,m,5' shark,n
+2615,surfing,50,m,1.8 m [6'] shark ,n
+2619,surfing,25,m,4' spinner shark,n
+2620,surfing,43,m,Tiger shark,n
+2621,surfing,19,m,1.8 m to 2.4 m [6' to 8'] shark,n
+2622,spearfishing,26,m,White shark,n
+2623,spearfishing,49,m,White shark,n
+2624,kayaking,44,m,White shark,n
+2626,surfing,22,m,White shark,n
+2631,scuba diving,21,f,White shark,y
+2632,spearfishing,38,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2634,snorkeling,30,f,2 m hammerhead,n
+2635,snorkeling,30,m,2 m hammerhead,n
+2636,resting on surfboard,22,m,White shark,n
+2637,paddling,23,m,White shark,n
+2638,surfing,31,m,Tiger shark,n
+2641,surfing,29,m,3 m shark,n
+2652,surfing,32,m,White shark,n
+2653,spearfishing,29,m,White shark,y
+2655,swimming,10,m,Bronze whaler shark,n
+2657,surfing,17,m,White shark,n
+2659,surfing,12,m,4' shark,n
+2662,free diving,29,m,White shark,n
+2663,fishing,51,m,150-lb shark,n
+2665,hookah diving for abalone (descending),38,m,White shark,n
+2666,surfing,31,m,sandbar shark,n
+2667,filming 5' blue shark,46,m,Blue shark,n
+2668,feeding fish,30,m,Nurse shark,n
+2669,swimming,21,m,1.2 m [4'] shark,n
+2670,surfing,21,m,White shark,n
+2671,surfing,17,m,Bronze whaler shark,n
+2673,fishing,41,m,White shark,n
+2675,surfing,34,m,White shark,n
+2678,playing ,9,f,4' shark,n
+2680,spearfishing,45,m,1.8 m [6'] sandtiger shark,n
+2682,surfing,16,m,White shark,n
+2683,free diving,28,m,White shark,n
+2685,swimming,19,m,1.2 m [4'] shark,n
+2690,surfing,27,m,White shark,y
+2694,swimming,47,m,White shark,y
+2696,kayaking,24,f,White shark,y
+2697,body boarding,10,m,Hammerhead shark,n
+2700,surfing,17,m,Tiger shark,n
+2707,surfing,21,m,White shark,n
+2708,surfing,38,m,7' shark,n
+2709,surfing,15,m,6' shark,n
+2710,surfing,30,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2711,surfing,23,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2713,wading,23,f,1.2 m [4'] shark,n
+2714,surfing,21,m,5' shark,n
+2716,snorkeling,38,m,Bull shark,y
+2720,surfing,27,m,White shark,n
+2722,spearfishing,28,m,1.5 m [5'] caribbean reef shark,n
+2723,diving,35,m,1.5 m [5'] caribbean reef shark,n
+2728,spearfishing,36,m,White shark,n
+2729,scuba diving,42,m,sandtiger shark,n
+2730,sittting in water with his child,37,m,sand shark?,n
+2732,surfing,25,m,1.8 m to 2.4 m [6' to 8'] shark,n
+2745,surfing,17,m,1.5 m to 2 m [5' to 6.75'] shark,n
+2748,surfing,20,m,"1 m ""grey-colored"" shark",n
+2749,lying atop surfboard,15,f,zambezi shark (tooth fragments recovered),n
+2751,diving,22,m,Tiger shark,n
+2755,attempting to lasso shark's tail,33,m,1.5 m copper shark,n
+2757,surfing,12,m,Wobbegong shark,n
+2759,surfing,16,m,Blacktip shark,n
+2763,surfing,20,m,2 m [6.75'] shark,n
+2765,spearfishing,21,m,White shark,n
+2767,scuba diving,47,m,White shark,y
+2768,surfing,24,m,White shark,n
+2769,wading,12,m,1.2 m to 1.5 m [4' to 5'] shark,n
+2770,surfing,40,m,White shark,n
+2771,surfing,27,m,3' to 4' shark,n
+2772,surfing,32,f,4' shark,n
+2773,wading,16,f,4' shark,n
+2784,swimming,8,m,4.3 m shark,y
+2785,surfing,18,m,Bronze whaler shark,n
+2789,spearfishing,30,m,White shark,n
+2794,body boarding,21,m,White shark,y
+2795,surfing,40,m,Blacktip shark,n
+2797,spearfishing,27,m,White shark,n
+2804,swimming,6,f,"lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",n
+2805,racing ski,32,m,1.6 m shark,n
+2807,surfing,28,m,Bull shark,n
+2817,spearfishing,26,m,1.2 m [4'] dusky shark,n
+2823,treading water,26,m,>1 m shark,n
+2824,surfing,23,m,2 m [6.75'] shark,n
+2825,surfing,21,m,White shark,n
+2827,swimming,46,m,Raggedtooth shark,n
+2828,spearfishing,29,m,Raggedtooth shark,n
+2829,surfing,29,m,Bronze whaler shark,n
+2830,surfing,22,m,Blacktip shark,n
+2831,surfing,16,m,1.5 m [5'] shark,n
+2837,body boarding,22,m,White shark,n
+2838,hookah diving for abalone,46,m,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,n
+2839,body boarding,33,m,Tiger shark,n
+2840,floating on inner tube after diving for lobster,24,m,1.8 m to 2.4 m [6' to 8'] shark,n
+2849,wading,13,f,Hammerhead shark,n
+2852,playing in knee-deep water,10,f,Tiger shark,n
+2853,snorkeling,13,m,White shark,n
+2855,spearfishing,39,m,30-kg [66-lb] shark,n
+2857,free diving,33,f,White shark,y
+2858,scuba diving,29,m,White shark,n
+2860,swimming,15,m,Raggedtooth shark,n
+2862,surfing,18,m,White shark,n
+2864,spearfishing,34,m,White shark,n
+2866,spearfishing,20,m,1.5 m [5'] dusky shark,n
+2870,sailing on catamaran & fell into the water,16,m,Tiger shark,y
+2871,surfing,13,m,1.2 m [4'] shark,n
+2872,spearfishing,29,m,"""a small shark""",n
+2874,surfing,23,f,1.5 m [5'] shark,n
+2876,surfing,15,m,Blacktip shark,n
+2877,surfing,25,m,White shark,n
+2881,surfing,16,m,Hammerhead shark,n
+2884,skindiving,28,m,White shark,y
+2889,swimming,18,f,1.2 m [4'] shark,n
+2893,surfing,27,m,White shark,n
+2894,towing her sister on plastic ski board,13,f,Hammerhead shark,n
+2902,scuba diving,33,m, 1.5 m [5'] dusky shark,n
+2904,spearfishing,27,m,1.5 m white-tipped reef shark,n
+2905,swimming,14,m,Raggedtooth shark,n
+2911,scuba diving,48,m,White shark,n
+2913,swimming,47,m,Raggedtooth shark,n
+2916,surfing,15,m,Tiger shark,n
+2918,surfing,16,m,1.5 m [5'] shark,n
+2919,wading,20,m,4.5' shark,n
+2922,spearfishing,29,m,White shark,n
+2923,swimming,14,f,sand shark,n
+2924,skindiving,14,m,Nurse shark,n
+2925,diving,22,f,Bull shark,n
+2927,swimming,21,f,Tiger shark,y
+2928,swimming,24,m,Tiger shark,y
+2929,14 m prawn trawler new venture capsized  & sank in heavy seas three people in the water,28,m,Tiger shark,n
+2931,windsurfing,39,f,Hammerhead shark,n
+2940,water-skiing,21,m,6' shark,n
+2944,fishing,27,m,Raggedtooth shark,n
+2947,spearfishing,17,m,1.8 m [6'] zambezi shark,n
+2951,paddleskiing,16,m,3 m [10'] shark,n
+2955,spearfishing,32,m,White shark,n
+2960,windsurfing,26,m,1.5 m [5'] shark,n
+2962,surfing,16,m,White shark,n
+2963,surfing,20,m,1.5 m [5'] shark,n
+2964,diving,36,m,White shark,n
+2965,free diving,28,m,White shark,n
+2972,paddleskiing,38,m,White shark,n
+2973,paddle boarding,26,m,White shark,n
+2974,swimming,17,m,0.9 m to 1.2 m [3' to 4'] shark,n
+2978,surfing,27,m,White shark,y
+2979,swimming,20,m,5' shark,n
+2980,spearfishing,19,m,"lemon shark, 2 m [6'9""]",n
+2987,spearfishing,32,m,White shark,y
+2988,surfing,18,m,4' to 5' shark,n
+2995,swimming,20,m,Raggedtooth shark,n
+2999,surfing,24,m,White shark,y
+3004,diving to untangle a crab trap line from boat's propeller,59,m,"2.1 m [7'] shark with ""a very flat head that had followed the boat for 3 days",n
+3005,swimming,19,m,1.8 m to 2.4 m [6' to 8'] shark,n
+3008,surfing,24,m,6' shark,n
+3011,swimming,26,m,Tiger shark,y
+3014,surfing,15,m,6' shark,n
+3015,spearfishing,19,m,"1.8 m [6'] shark, species identity questionable",n
+3019,snorkeling,53,m,Mako shark,n
+3020,swimming,16,f,"""sandshark""",n
+3021,surfing,32,m,possibly a  1.8 m [6'] zambezi shark,n
+3027,shell diving,27,f,White shark,y
+3028,surfing,27,m,Raggedtooth shark,n
+3031,surfing,19,m,Raggedtooth shark,n
+3034,surfing,24,m,Tiger shark,n
+3035,wading,19,m,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",n
+3036,surfing,24,m,c. maculpinnis or c. limbatus,n
+3039,swimming,30,m,Blacktip shark,n
+3042,surfing,15,m,Hammerhead shark,n
+3044,spearfishing,25,m,Tiger shark,n
+3046,surf-skiing,27,m,Tiger shark,n
+3048,paddleskiing,25,m,3.5 m [11.5'] shark,n
+3050,spearfishing,22,m,White shark,n
+3054,surfing,29,m,White shark,n
+3055,surfing,19,m,White shark,n
+3061,standing,22,f,4' to 8' shark,n
+3064,scuba diving,44,f,Blue shark,n
+3065,surfing,22,m,1.8 m [6'] shark,n
+3068,surfing,13,f,Tiger shark,n
+3069,free diving,52,m,Tiger shark,y
+3072,fishing,61,m,Hammerhead shark,n
+3073,body boarding,24,m,White shark,n
+3074,spearfishing,29,m,2.2 m shark,n
+3075,spearfishing,29,m,"2 m [6'9""] zambesi shark",n
+3077,swimming,25,m,Raggedtooth shark,n
+3079,gaffing netted shark,34,m,1.8 m [6'] dogfish,n
+3084,spearfishing,19,m,White shark,y
+3085,diving,32,m,6' shark,n
+3086,surfing,20,m,White shark,n
+3089,scuba diving,18,m,"""a small shark""",n
+3096,spearfishing,25,m,White shark,n
+3102,surfing,27,m,Blacktip shark,n
+3106,surfing,19,m,1.5 m to 2 m [5' to 6.75'] shark,n
+3109,spearfishing,23,m,White shark,y
+3113,spearfishing,27,m,White shark,n
+3115,scuba diving,34,m,15' shark,n
+3129,surfing,17,m,Blacktip shark,n
+3135,surfing,18,m,Tiger shark,n
+3138,spearfishing,25,m,White shark,n
+3139,surfing,17,m,White shark,n
+3142,free diving,20,m,White shark,n
+3145,spearfishing,27,m,Bull shark,n
+3146,collecting fish from net,25,m,Bull shark,n
+3155,"pushed surfmat of a young girl out of the shark's path, drawing shark's attention to his own board",24,m,4 m [13'] shark,n
+3160,hookah diving for abalone (submerged),29,m,White shark,n
+3161,"thrashing the water / imitating the shark victim from ""jaws""",19,m,White shark,n
+3163,surfing,19,m,Bull shark,n
+3167,surfing,25,m,White shark,n
+3168,surfing,20,m,White shark,n
+3170,"skindiving,",27,m,2.7 m  [9'] shark,n
+3174,surfing,15,m,Tiger shark,n
+3176,surfing,19,m,White shark,n
+3180,spearfishing,23,m,6' to 8' shark,n
+3181,skindiving,17,m,12' to 14' shark,n
+3183,fishing,46,m,Blue shark,n
+3195,spearfishing,25,m,6' shark,n
+3199,spearfishing,27,m,White shark,n
+3200,filming & feeding captive sharks,35,m,Nurse shark,n
+3201,standing,20,m,5' shark,n
+3202,standing,33,m,juvenile dusky shark,n
+3204,surfing,18,m,6' shark,n
+3206,surfing,20,m,Bronze whaler shark,n
+3208,paddleskiing,21,m,1.2 m [4'] shark,n
+3209,surfing,19,m,White shark,n
+3210,floating on a small orange raft ,20,m,1.5 m [5'] shark,n
+3211,free diving,44,m,White shark,n
+3214,scuba diving,37,m,White shark,y
+3216,surfing,21,m,12' shark,n
+3217,scuba diving,23,m,White shark,n
+3218,hookah diving for abalone,34,m,White shark,n
+3219,swimming,14,f,1.2 m [4'] shark,n
+3220,spearfishing,29,m,2.4 m [8'] whaler shark,n
+3222,swimming,18,m,4' shark,n
+3234,floating in inner tube,14,m,10' shark,n
+3238,surfing,16,m,1.5 m [5'] shark,n
+3240,swimming,12,m,White shark,y
+3241,crayfishing,45,m,"carpet shark, 10' ",n
+3243,fishing,12,m,"copper shark, 50-kg [110-b] ",n
+3245,spearfishing,25,m,Blue shark,n
+3249,surfing,17,m,White shark,n
+3250,hookah diving for abalone,29,m,White shark,n
+3251,swimming,20,f,Mako shark,n
+3252,scuba diving,41,m,White shark,n
+3253,scuba diving,48,m,White shark,n
+3255,surfing,24,m,White shark,n
+3262,free diving,36,m,White shark,n
+3263,swimming,17,m,small sharks',y
+3264,adrift after the sinking of the motor yacht princess dianne,10,m,3.7 m [12'] sharks,y
+3266,free diving,45,m,White shark,n
+3268,spearfishing,22,m,Raggedtooth shark,n
+3271,surfing,17,m,juvenile dusky shark,n
+3272,surfing,21,m,1.8 m [6'] shark,n
+3278,sitting,42,m,Raggedtooth shark,n
+3279,diving for abalone,26,m,White shark,y
+3280,swimming,33,m,2 m to 2.5 m [6.75'  to 8.25'] shark,n
+3294,spearfishing,11,m,Bull shark,n
+3296,spearfishing,37,m,White shark,y
+3299,surfing,16,m,12' shark,n
+3300,crabbing (spearing crabs),17,m,Blacktip shark,n
+3305,spearfishing,26,m,Blacktip shark,n
+3313,swimming,25,m,2 m to 3 m shark,n
+3320,surfing,19,m,Bronze whaler shark,n
+3328,diving for abalone,45,m,White shark,n
+3332,surfing,22,m,4.5' shark,n
+3333,free diving,32,m,White shark,n
+3334,spearfishing,27,m,1.5 m grey reef shark,n
+3335,swimming,25,m,Tiger shark,y
+3340,surfing,18,m,7' shark,n
+3343,sitting in shallows,30,f,zambesi shark,n
+3344,standing,24,m,White shark,n
+3348,swimming,16,f,White shark,n
+3352,surfing,18,m,5' to 6' shark,n
+3353,swimming,25,m,1.5 m to 2 m shark,n
+3354,scuba diving,30,m,White shark,n
+3356,swimming,34,m,White shark,y
+3358,scuba diving,26,m,Nurse shark,n
+3361,surfing,21,m,White shark,n
+3362,scuba diving,32,m,3.6 m  porbeagle shark,n
+3363,swimming,16,m,"2 m [6'9""] shark",n
+3364,swimming,50,m,White shark,y
+3369,surfing,16,m,White shark,n
+3371,surfing,15,m,White shark,n
+3381,diving,43,m,1.8 to 2 m c. albimarginatus,n
+3382,spearfishing,20,m,1 m shark,n
+3389,fishing,13,m,7.5' shark,n
+3390,scuba diving,25,m,Raggedtooth shark,n
+3401,swimming,16,m,zambesi shark,n
+3402,swimming,12,m,zambesi shark,n
+3403,swimming,10,m,zambesi shark,n
+3420,free diving,53,m,White shark,n
+3424,surfing,13,m,4' shark,n
+3433,diving,23,m,Nurse shark,n
+3437,fishing,,m,"lemon shark, 9' ",n
+3439,surfing,16,m,White shark,n
+3440,fishing,49,m,7-gill shark,n
+3446,feeding mullet to sharks,27,m,Nurse shark,n
+3447,surfing,17,m,White shark,n
+3449,spearfishing,28,m,Hammerhead shark,n
+3451,fishing,22,m,"90-kg ""blackfin"" shark",n
+3458,spearfishing,24,m,White shark,y
+3463,fishing,18,m,2 m shark,n
+3464,free diving,25,m,White shark,n
+3466,spearfishing,33,m,4m [13'] shark,n
+3469,spearfishing,17,m,1.5 m to 2 m [5' to 6.75'] caribbean reef shark ,n
+3476,"diving. shark swallowed his hand, so he threw his other around the shark and went shark-back riding for 30 yards until the shark opened its jaws",21,m,Bronze whaler shark,n
+3479,wading,35,m,1.5 m to 1.8m [5' to 6'] shark,n
+3485,spearfishing,26,m,Bronze whaler shark,n
+3492,surfing,22,m,1.5 m to 1.8 m [5' to 6'] shark,n
+3497,freediving,15,m,Nurse shark,n
+3503,standing,19,m,Blacktip shark,n
+3510,spearfishing,23,m,3.7 m [12'] shark,y
+3511,pulling shark from the water,24,m,Blue shark,n
+3514,spearfishing,23,m,White shark,y
+3518,spearfishing,15,m,Nurse shark,n
+3519,photographing sharks underwater using scuba,41,m,1.5 m to 1.8 m [5' to 6'] sandbar shark,n
+3524,spearfishing,26,m,Nurse shark,n
+3527,feeding a shark,22,m,Nurse shark,n
+3530,spearfishing,32,m,White shark,n
+3531,spearfishing,36,m,Nurse shark,n
+3533,lifesaving drill,21,m,White shark,y
+3539,splashing,15,m,"""sand shark""",n
+3540,fishing,30,m,2.1 m [7'] shark,n
+3541,spearfishing,29,m,Nurse shark,n
+3542,spearfishing,19,m,Nurse shark,n
+3544,spearfishing,29,m,1.8 m [6'] shark,n
+3546,bathing,9,f,3.7 m [12'] shark,y
+3547,swimming,13,f,3.7 m [12'] shark,y
+3548,bathing,8,f,3.7 m [12'] shark,y
+3549,free diving,32,m,Bronze whaler shark,n
+3553,spearfishing,43,m,Mako shark,n
+3554,hunting crayfish ,14,m,Nurse shark,n
+3559,swimming,13,f,a pack of 6 sharks,y
+3560,diving into water,9,f,a pack of 6 sharks,y
+3561,swimming,33,m,White shark,y
+3563,attacked shark with fists,21,m,"""small shark""",n
+3565,wading,8,m,Blacktip shark,n
+3566,diving for sand dollars,16,m,lemon shark or sandtiger shark,n
+3567,killing a shark,34,m,4' shark,n
+3573,clamming,15,m,"local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",n
+3574,fishing,18,m,Hammerhead shark,n
+3575,swimming,18,m,a small shark,n
+3579,shipwreck,38,m,White shark,y
+3586,treading water,13,m,White shark,n
+3587,helping men land a shark,33,m,copper shark,n
+3589,spearfishing,29,m,White shark,n
+3590,spearfishing,30,m,Wobbegong shark,n
+3592,standing,16,m,1.5 m to 1.8 m [5' to 6'] zambesi shark,n
+3593,jumped into the water,43,m,76 cm [2.5'] carpet shark,n
+3594,surfing,15,m,"1.8 m to 2 m [6' to 6'9""] shark",n
+3596,swimming,35,m,Hammerhead shark,n
+3598,spearfishing,40,m,1.8 m [6'] carpet shark,n
+3601,fishing,43,m,4.6 m [15'] shark,y
+3604,surfing,24,m,Nurse shark,n
+3606,sunbathing on beach when he saw child being attacked by the shark,32,m,"1.8 m [6'], 180-lb shark",n
+3608,spearfishing,15,m,2 sharks involved,y
+3630,spearfishing,28,m,White shark,n
+3631,walking,8,m,Tiger shark,n
+3632,paddling,17,m,Blacktip shark,n
+3634,free diving,16,m,Mako shark,n
+3635,treading water,25,m,"1.8 m [6'], 136-kg [300-lb] shark ",n
+3636,scuba diving,18,m,1.2 m [4'] shark,n
+3638,paddling,22,m,White shark,n
+3641,free diving,30,m,4.9 m [16'] whaler,y
+3646,spearfishing,25,m,Mako shark,n
+3649,swimming,19,m,Raggedtooth shark,n
+3652,swimming,28,m,2.1 m [7'] shark,n
+3654,free diving,25,m,White shark,n
+3656,"filming underwater, carrying powerhead",25,m,White shark,n
+3660,swimming,19,m,Nurse shark,n
+3663,swimming,20,m,1.8 m [6'] shark,n
+3665,floating on his back in an inner tube,19,m,1.8 to 2.4 m [6' to 8'] shark,n
+3668,spearfishing,28,m,Hammerhead shark,n
+3670,free diving,21,m,less than 1.2 m [4'],n
+3672,searching for remains of  dr. marais,30,m,zambesi shark,n
+3684,standing,47,m,lemon shark ,n
+3685,spearfishing,35,m,Tiger shark,y
+3686,skin diving,13,m,1.8 m [6'] shark,y
+3688,surfing,19,m,1.8 m [6'] shark,n
+3690,skin diving ,38,m,1.7 m [5.5'] shark,n
+3696,spearfishing,26,m,White shark,n
+3697,body boarding,25,m,White shark,n
+3699,swimming,19,m,White shark,y
+3702,floating,12,m,Hammerhead shark,n
+3709,spearfishing,21,m,White shark,n
+3715,standing,20,f,"zambesi shark, 1.8 m [6'] ",n
+3716,swimming,24,m,1.8 m [6']  shark,n
+3720,helping friend land hooked shark,13,m,"dusky shark, 1 m ",n
+3723,splashing in surf,15,m,300- to 400-lb zambesi shark,y
+3724,spearfishing,23,m,White shark,n
+3725,spearfishing,22,m,Tiger shark,y
+3726,treading water while alongside capsized yacht,20,m,possibly a broadnose 7-gill shark,n
+3727,fishing,18,f,Tiger shark,n
+3728,fishing,21,f,Tiger shark,n
+3734,fishing,35,m,dooley believed his injury was caused by stingray (dasyatidae family),n
+3735,fishing,28,m,500-lb shark,n
+3739,spearing fish,30,m,5.5 m [18'] shark,y
+3740,surfing,18,m,1.5 m [5'] shark,n
+3741,spearfishing,16,m,Nurse shark,n
+3742,swimming,23,m,8 sharks,y
+3743,spearfishing,26,m,Tiger shark,n
+3745,fishing,24,m,1.2 m [4'] shark,n
+3748,swimming,42,f,White shark,y
+3749,fishing,30,m,1.8 m [6'] shark,n
+3753,swimming,25,m,"hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] galapagos shark, c. galapagensis",y
+3755,surfing,25,m,1.8 m to 2.4 m  [6' to 8'] shark,n
+3756,surfing,15,m,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,n
+3760,spearfishing,18,m,Bronze whaler shark,n
+3761,spearfishing,28,m,White shark,n
+3765,wading,32,f,Bull shark,y
+3770,free diving,27,m,1 m shark,n
+3771,spearfishing,24,m,"zambesi shark, 2 m [6'9""] ",n
+3777,spearfishing,16,m,White shark,y
+3779,spearfishing,26,m,3 m [10'] shark,n
+3781,spearfishing,24,m,White shark,n
+3785,wading,32,m,2.7 m [9'] shark,y
+3790,spearfishing,24,m,Blacktip shark,n
+3793,spearfishing,28,m,White shark,y
+3796,fishing,49,m,"""a long thin brown-colored shark""",n
+3797,diving for abalone,39,m,"horn shar,k heterodontus francisci, 1.2 m [4'] ",n
+3800,fishing,40,m,unknown,y
+3801,standing,24,m,1.8 m [6'] shark,n
+3804,beach seine netting,23,m,3.5 m shark,n
+3805,standing,21,m,1.8 m to 2.4 m [6' to 8'] shark,n
+3806,finning the shark,20,m,"2 m [6'9""] shark",n
+3807,fishing,19,m,Blue shark,n
+3813,rolled off raft,11,m,1.8 m [6'] shark,n
+3820,scuba diving,55,m," sevengill  shark, 1.2 m [4'] ",n
+3827,wading,13,m,"zambesi shark, 1.2 m [4'] ",n
+3831,swimming,10,m,Bronze whaler shark,y
+3833,swimming,15,m,1.8 m [6'] shark,n
+3836,treading water,13,m,White shark,y
+3837,swimming,35,m,60 cm  shark ,n
+3840,splashing ,18,m,1.5 m [5'] shark,n
+3842,spearfishing,19,m,Bronze whaler shark,n
+3846,spearfishing,29,m,White shark,n
+3848,surfing,19,m,Bronze whaler shark,n
+3850,spearfishing,24,m,White shark,n
+3851,fishing,54,f,"36""  shark",n
+3858,fishing,57,m,1.8 m [6'] shark,n
+3862,standing,18,f,3 m [10'] shark,y
+3863,standing,24,m,3 m [10'] shark,n
+3864,treading water,18,m,zambesi shark,n
+3865,spearfishing,23,m,Nurse shark,n
+3868,surfing,22,m,next morning a 3 m [10'] shark was caught that had andrews' leg in its gut,y
+3869,swimming,17,m,1.8 m [6'] shark,n
+3876,swimming,19,m,White shark,y
+3878,"survived us naval aircraft crash, climbing onboard rescue vessel when he fell back into sea ",22,m,"oceanic whitetip shar,; identified by dr. w.c. schoeder on photograph & dr. l.p. l. schultz on sketch by observer",n
+3880,fishing,33,m,1 m shark,n
+3882,swimming,16,m,White shark,n
+3883,wading,19,m,White shark,n
+3884,spearfishing,22,m,Blacktip shark,n
+3885,fishing,38,m,2.4 m [8'] shark,n
+3887,spearfishing,57,m,"43"" shark",n
+3890,spearfishing,21,m,White shark,n
+3896,fishing,19,m,2.7 m [9']shark,n
+3897,free diving,20,m,White shark,n
+3899,walking,52,m,Hammerhead shark,n
+3903,swimming,37,m,zambesi shark,n
+3905,spearfishing,22,m,Tiger shark,n
+3906,spearfishing,21,m,Wobbegong shark,n
+3907,"checking fish traps, fell into the water",40,m," ""gummy"" shark (rhizoprionodon or loxodon) 1.2 m [4']",n
+3908,swimming,38,m,zambesi shark,y
+3910,spearfishing,24,m,Nurse shark,n
+3912,spearfishing,24,m,Bronze whaler shark,n
+3913,swimming,24,m,3 m [10'] shark,n
+3915,spearfishing,21,m,White shark,n
+3916,free diving,33,m,"grey reef shark, 1.8 m [6'] grey reef shark, identified by dr. l.p. l. schultz based on photographs; identified as c. melanopterus by stewart",n
+3917,fishing,44,m,"zambesi shark, 4'9""",n
+3922,spearfishing,27,m,1.5 m [5'] shark,n
+3923,swimming,14,m,"2.1 m [7'], 90-kg shark",y
+3927,swimming,15,m,White shark,n
+3928,collecting aquarium specimens,27,m,Wobbegong shark,n
+3929,standing,13,m,White shark,n
+3939,free diving,20,m,> 3 m shark,y
+3943,swimming,25,m,White shark,y
+3944,fishing,33,m,Nurse shark,n
+3946,swimming,41,m,3' shark,n
+3949,spearfishing,24,m,Wobbegong shark,n
+3974,holding shark on leader & dangling it above the water,15,m,"lemon shark, 1164 mm, immature male, identified by  v.g. springer",n
+3975,helping angler land a shark,25,m,80-lb hooked shark,n
+3976,fishing,46,m,2.4 m [8'] shark,n
+3980,fishing,41,m,"""sand shark""",n
+3984,fishing,18,m,"""a small shark""",n
+3985,scuba diving,39,m,Mako shark,n
+3990,free diving,25,m,"dusky shark, 2.7 m [9'] dusky shark c. obscurus identified by s. springer on tooth recovered",n
+3991,swimming,16,f,White shark,n
+3994,treading water,16,m,White shark,n
+3995,skindiving for abalone (but at surface),48,m,White shark,n
+3999,surfing,17,m,White shark,n
+4007,treading water,42,m,"1.2 m [4'], possibly  larger shark",n
+4008,spearfishing,44,m,1.2 m [4'] shark,n
+4009,fishing,30,m,two 2.1 m [7'] sharks,n
+4010,spearfishing,22,m,Bronze whaler shark,n
+4013,spearfishing,26,m,Tiger shark,y
+4015,spearfishing,20,m,Nurse shark,n
+4020,free diving,13,m,Bull shark,y
+4039,spearfishing,17,m,2.7 m [9']  shark,n
+4043,surfing,19,m,3.5 m [11.5'] shark,n
+4044,standing,17,m,"""a small shark""",n
+4045,trailing the field in a surf race,19,m,3 m to 4.3 m [10' to 14'] shark,n
+4049,swimming,21,m,Blue shark,n
+4054,diving for abalone,30,m,White shark,n
+4056,spearfishing,36,m,Tiger shark,n
+4059,"adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",30,m,Hammerhead shark,n
+4070,spearfishing,26,m,3.7 m [12'] shark,y
+4073,spearfishing,32,m,Hammerhead shark,n
+4075,swimming,13,m,Blue shark,y
+4080,spearfishing,25,m,Hammerhead shark,n
+4086,free diving,13,m,Nurse shark,n
+4091,free diving,33,m,White shark,y
+4093,spearfishing,23,m,White shark,n
+4095,treading water,18,m,White shark,y
+4096,spearfishing,19,m,Tiger shark,n
+4099,diving for pearl shell,43,m,Tiger shark,n
+4110,treading water,14,m,1.8 to 2.1 m [6' to 7'] shark,n
+4111,working prawn net,20,m,Nurse shark,n
+4112,washed overboard into school of fish,57,m,bitten by several 1.8 m [6'] sharks,n
+4114,in deep water about 100 yards from his ship,22,m,said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,y
+4115,surfing,17,m,1.8 m [6'] shark,n
+4116,swimming,18,m,White shark,n
+4130,surfing,15,m,Tiger shark,y
+4131,cleaning hull of ship ,22,m,Tiger shark,y
+4132,swimming,21,m,12' shark,y
+4140,"""climbing up to ship after repairing the stern in water""",32,m,Blue shark,y
+4141,fishing,42,m,200-lb shark,n
+4146,swimming,12,m,Tiger shark,n
+4147,swimming,8,m,Tiger shark,n
+4151,u.s. airforce c124 enroute from hickham air base to japan went down. the 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,31,m,sharks averaged 1.8 m [6'] in length,n
+4152,free diving,20,m,Nurse shark,n
+4154,spearfishing,36,m,Tiger shark,n
+4156,wading,59,m,Nurse shark,n
+4157,walking,17,m,Tiger shark,n
+4161,free diving,29,m,Nurse shark,n
+4162,diving,29,m,Mako shark,n
+4163,paddling,28,f,3 m [10'] shark,y
+4164,swimming,29,m,3 m [10'] shark,y
+4167,spearfishing,18,m,Nurse shark,n
+4169,surfing,14,m,6' shark,n
+4182,standing,14,f,1.8 m [6'] shark,n
+4184,floating,23,m,>3 m [10'] shark,y
+4194,swimming,57,m,White shark,y
+4195,diving for trochus,36,m,9' shark,n
+4197,spearfishing,28,m,4.6 m [15'] shark,n
+4200,swimming,25,m,White shark,y
+4201,surfing,15,m,Wobbegong shark,n
+4202,standing,17,m,4 m [13'] shark,n
+4203,swimming,22,m,shark seen feeding on turtle scraps thrown overboard prior to incident.,n
+4222,spearfishing,19,m,Tiger shark,y
+4225,fishing,70,m,Mako shark,n
+4226,free diving,29,m,White shark,n
+4228,"skindiving, fish at belt",19,m,lemon shark,n
+4230,fishing,27,m,a sand shark,n
+4234,fishing,34,m,4.3 m [14'] shark,y
+4238,swimming,10,m,White shark,n
+4246,fishing,38,m,8-lb shark,n
+4247,swimming,40,m,White shark,y
+4258,swimming,26,m,3.7 m [12'] shark & may have been another shark nearby,y
+4260,diving into water,15,m,1.8 m [6'] shark,y
+4264,surf skiing,25,m,5' to 6' shark,n
+4267,swimming,15,f,White shark,y
+4275,swimming,8,m,Wobbegong shark,n
+4277,spearfishing,28,m,6' shark,n
+4284,surfing,25,m,Blue shark,n
+4285,swimming,32,f,White shark,y
+4286,swimming,28,m,Blue shark,y
+4291,wading,13,m,0.7 m [2.5'] sand shark,n
+4294,spearfishing,28,m,2 m [6.75'] shark,n
+4303,spearfishing,19,m,White shark,n
+4304,swimming,25,m,White shark,y
+4308,hunting lobsters in 2.4 m of water,13,m,Bronze whaler shark,y
+4314,spearfishing,12,m,1.5 m [5'] shark,n
+4322,fishing,62,m,20' shark,n
+4325,swimming,35,m,1.5 m [5'] shark,n
+4327,spearfishing,35,m,9' shark,y
+4336,swimming,22,m,"2.4 m [8'] shark, possibly a dusky shark",n
+4340,pearl diving from lugger whyalla,30,m,2.4 m [8']  shark,n
+4349,floating,18,m,White shark,n
+4350,crouching in the water,26,m,14' shark,n
+4366,fishing,15,m,80-lb sand shark,n
+4370,spearfishing,15,m,3 m [10'] shark seen in vicinity,y
+4387,spearfishing,25,m,Wobbegong shark,n
+4395,fishing,25,m,2.4 m [8'] shark,n
+4397,fishing,17,m,200-lb shark,n
+4399,surfing,17,m,White shark,y
+4400,swimming,40,m,>6.7 m [22']  shark,y
+4405,fishing,43,m,a small shark',n
+4406,fishing,34,m,a small shark',n
+4424,spearfishing,18,m,Wobbegong shark,n
+4426,treading water,21,m,2.4 m [8']  shark,y
+4427,swimming,23,m,White shark,n
+4429,treading water,24,m,White shark,n
+4436,swimming,18,m,White shark,n
+4437,swimming,16,f,White shark,y
+4441,fell overboard,40,m,2.1 m [7'] shark,n
+4446,fell off surf ski,23,m,Wobbegong shark,n
+4447,fishing,,m,5.5 m [18'] shark,n
+4449,surfing,31,m,136-kg [300-lb] shark,n
+4451,swimming,14,m,1.2 m [4'] shark,n
+4455,paddling,19,m,Nurse shark,n
+4458,diving ,17,m,2' shark,n
+4459,surfing,21,m,White shark,n
+4460,paddling,18,m,10' shark,n
+4461,surfing,31,m,White shark,n
+4462,fishing,25,m,4' shark,n
+4463,fishing,27,m,"1,100-lb shark",n
+4469,swimming,11,m,Hammerhead shark,n
+4471,standing,21,m,0.7 m [2.5'] shark,n
+4472,swimming,16,m,"""sand shark""",n
+4482,surfing,14,m,White shark,y
+4489,bending over,7,m,Tiger shark,y
+4499,lying on the bottom of a 16' dinghy,35,m,Nurse shark,n
+4500,wading,36,m,6' shark,n
+4510,fishing,16,m,"bonita sharkk, 200-lb",n
+4512,bathing,22,f,"whaler shark, 2.7 m [9'], 350- to 450-lb  identified by g.p. whitley",n
+4515,bathing,13,m,"3.3 m [10'9""] shark",y
+4518,lifesaving exhibition,20,m,White shark,y
+4529,swimming,17,m,Tiger shark,y
+4536,swimming,17,m,said to be 6.4 m [21'] shark,y
+4544,spearing a shark,41,m,"lemon shark, 4'",n
+4551,spearfishing,30,m,"""grey shark""",n
+4553,swimming,16,m,3.7 m [12'] shark,y
+4555,underwater photography,48,m,Nurse shark,n
+4559,fishing,9,m,Nurse shark,n
+4570,swimming,20,m,possibly c. leucas,y
+4571,fishing,46,m,a small shark,n
+4578,treading water,21,m,"1.5 m, 45-kg shark",n
+4583,treading water,22,m,Blacktip shark,n
+4588,treading water,18,m,>1.6 m shark,n
+4595,swimming,30,m,4.3 m [14'] shark,y
+4597,swimming,12,m,possibly c. leucas,n
+4604,standing,18,m,White shark,n
+4609,jumping in swells,18,m,1.5 m [5'] shark,n
+4625,walking,37,m,thought to involve a zambesi shark,n
+4630,swimming,15,m,Bull shark,n
+4631,swimming,19,m,9' shark,n
+4644,swimming,17,m,White shark,y
+4646,bathing,15,f,Blacktip shark,n
+4667,dived overboard to check propeller of us navy motor torpedo boat,20,m,White shark,y
+4672,fishing,18,m,White shark,n
+4690,paddling,15,f,Bull shark,y
+4698,swimming,18,m,White shark,y
+4704,treading water,24,m,Tiger shark,n
+4708,sculling,20,m,porbeagle shark,n
+4718,swimming,28,f,Bull shark,y
+4725,swimming,48,m,1.2 m to 1.5 m [4' to 5'] shark,n
+4733,hmas parramatta torpedoed & sunk by the u-559,23,m,Tiger shark,n
+4743,fishing,43,m,2.1 m [7'] shark,n
+4746,fishing,53,m,Mako shark,n
+4762,bathing,18,m,5.5 m [18'] shark,y
+4766,treading water,25,m,White shark,y
+4768,swimming,17,m,White shark,y
+4771,dived into the water,17,m,"""a small shark""",n
+4772,swimming,13,m,3 m [10'] shark,y
+4774,swimming,18,m,2.4 m [8'] shark,y
+4783,swimming,20,m,2.6 m [8.5'] shark landed 2 hours later,y
+4789,swimming,27,m,Tiger shark,n
+4794,"dress diving, filming shark & pulling it through the water for a motion picture scene",38,m,Nurse shark,n
+4801,scooping prawns,11,m,7' shark,n
+4808,fishing,18,m,Tiger shark,n
+4818,swimming,9,m,Bull shark,n
+4827,surfing,50,m,"""grey-colored shark""",n
+4832,diving for trochus,17,m,12' shark,y
+4834,swimming,25,m,Tiger shark,y
+4835,swimming,18,m,Tiger shark,y
+4836,swimming,16,m,2.4 m [8'] shark,n
+4842,"diving from the lugger san, operated by the protector of the aborigines",38,m,Tiger shark,n
+4851,swimming,33,m,2 days later a 600-lb shark was caught 100 yards from the site,y
+4854,swimming,32,m,White shark,y
+4857,fishing,20,m,"3' ""blue nosed"" shark",n
+4859,holding shark's tail ,18,m,Nurse shark,n
+4865,fishing,50,m,White shark,y
+4874,swimming,16,m,White shark,y
+4878,swimming,16,m,Tiger shark,y
+4880,diving for trochus,16,m,Tiger shark,n
+4888,swimming,14,m,White shark,y
+4889,swimming,13,m,White shark,y
+4897,"fell overboard, hanging onto lifebuoy",38,m,3.7 m [12'] shark,y
+4904,fishing,31,m,4.6 m [15'] shark,n
+4916,hauling in net with shark in it,38,m,"""blue nose shark""",n
+4918,swimming,27,m,White shark,y
+4919,standing,22,m,White shark,y
+4925,splashing,13,f,Tiger shark,n
+4936,swimming,18,f,White shark,y
+4944,swimming,15,m,4.3 m [14'] shark seen in vicinity,y
+4945,swimming,17,m,4 m [13'] shark seen in vicinity,y
+4951,swimming,22,m,4.3 m [14'] shark seen in area previous week,n
+4953,pearl diving,17,m,Tiger shark,n
+4961,sitting in 3' of water,15,m,thought to involve a 2.4 m [8'] lemon shark; two 2.4 m lemon sharks caught within 100 yds of the site a week prior to & a week after this incident,n
+4968,swimming,24,m,Tiger shark,y
+4977,swimming,24,m,Mako shark,n
+4987,fishing,32,m,"250-lb ""dog shark""",n
+5000,collecting fish by lamplight in gully,23,m,Raggedtooth shark,n
+5001,diving for trochus from lugger,45,m,4 m [13'] shark,n
+5004,swimming,20,f,Hammerhead shark,n
+5027,swimming,18,m,1.5 m [5'] shark,n
+5041,swimming,21,m,Tiger shark,n
+5049,diving off pier & treading water,18,m,White shark,y
+5052,swimming,23,m,White shark,n
+5056,diving by wharf,16,m,Tiger shark,y
+5058,surfing,17,f,"""a small shark""",n
+5074,standing,19,m,Nurse shark,n
+5079,launching rowboat through the surf,9,m,"""a dog shark""",n
+5080,launching rowboat through the surf,12,m,"""a dog shark""",n
+5083,swimming,39,m,galapagos shark,y
+5086,surfing,14,m,12' shark,y
+5098,swimming,17,m,morenos leg  & part of his swim suit found in 9' shark caught two hours after the attack. identified as carcharhinid shark by l. schultz & c. limbaugh on photograph,y
+5108,bathing,15,m,4' shark,n
+5118,surfing,18,m,1.2 m [4'] shark,n
+5120,swimming,17,m,White shark,y
+5130,surfing,17,m,Nurse shark,n
+5133,fishing,70,m,Mako shark,n
+5136,swimming,15,m,3.7 m [12'] shark,y
+5142,bathing,17,m,Nurse shark,n
+5146,swimming,20,m,White shark,y
+5148,swimming,15,m,White shark,n
+5160,floating on his back,55,m,Tiger shark,y
+5168,bathing,16,m,said to be a small shark,n
+5192,swimming,16,m,3 m [10'] shark,y
+5216,bathing,19,m,"2.7 m [9'] ""blue"" shark",y
+5223,floating,18,f,1.8 m [6'] shark,y
+5224,swimming,19,m,6' shark,y
+5225,swimming,18,m,White shark,n
+5228,standing,14,f,2.7 m [9'] shark later captured by mitchell-hedges,y
+5229,bathing,21,m,White shark,y
+5231,swimming,18,m,White shark,y
+5273,wading,13,m,12' shark,y
+5304,swimming,12,m,said to involve a 2.7 m [9'] shark,n
+5305,swimming,24,m,3 m [10'] shark,y
+5311,swimming,24,m,White shark,y
+5375,swimming,21,m,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",y
+5484,washing horses,30,m,1.8 m to 2.7 m [6' to 9'] shark,y
+5498,bathing,40,m,5' shark,n
+5544,swimming,,m,2 m shark,y
+5545,swimming,29,m,White shark,y
+5571,swimming,15,m,3 m [10'] shark,y
+5598,fishing,15,m,White shark,n
+5648,bathing,19,m,10' to 12' shark,n
+5684,fishing,21,m,12' shark,n
+5814,swimming,12,m,Bull shark,y
+5829,swimming,23,m,3 sharks,y
+5838,swimming,22,m,15' shark,y
+5922,standing,35,m,identified as c. gangeticus by dr. j. fayrer,y
+6200,shark tagging,21,f,Blacktip shark,n
+6226,skin diving. grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19,m,Nurse shark,n
+6238,spearfishing,27,m,1.8 m [6'] shark,n
+6239,skindiving,36,m,"""a pack of sharks""",n
+6242,swimming,6,m,Bull shark,n
+6243,swimming,16,m,Bull shark,n
+6265,swimming,13,m,Bull shark,y
+6276,standing,16,m,Tiger shark,y

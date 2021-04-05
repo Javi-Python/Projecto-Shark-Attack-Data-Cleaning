@@ -19,3 +19,12 @@ def extract_regex(dataframe, new_column, old_column, regex_pattern):
         '''
     dataframe[new_column] = dataframe[old_column].str.extract(regex_pattern, expand = False).fillna('')
     return dataframe
+
+def sumnull(dataframe):
+    ''' tells us the sum of all NaN type in a given dataframe'''
+    return dataframe.isnull().sum()
+
+def createindex(dataframe, column, top_number):
+    '''Creates an index of the top number of values in a given column of a dataframe '''
+    return dataframe[column].value_counts().head(top_number).index
+
